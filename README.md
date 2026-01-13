@@ -12,5 +12,7 @@ If you’d like to get in touch, feel free to reach out via
 or [Email](mailto:vicky_friss@hotmail.com)
 
 
-Note: Python webinar source is https://www.hudl.com/blog/using-hudl-statsbomb-free-data-in-python
+
+
+> *Note: Python webinar source: [Hudl / StatsBomb](https://www.hudl.com/blog/using-hudl-statsbomb-free-data-in-python).*
 
