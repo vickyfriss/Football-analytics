@@ -1,0 +1,226 @@
+season,date,home_team,away_team,home_score,away_score,Tries_home,Tries_away,Conversions_home,Conversions_away,Penalties_home,Penalties_away,Drops_home,Drops_away
+2023-2024,13.10.2023,Bristol Bears,Leicester Tigers,25,14,3,2,2,2,2,0,0,0
+2023-2024,14.10.2023,Exeter Chiefs,Saracens,65,10,11,2,5,0,0,0,0,0
+2023-2024,14.10.2023,Bath Rugby,Newcastle Red Bulls,34,26,6,3,2,1,0,3,0,0
+2023-2024,14.10.2023,Gloucester Rugby,Harlequins,29,28,4,3,3,2,1,3,0,0
+2023-2024,15.10.2023,Sale Sharks,Northampton Saints,20,15,3,2,1,1,1,1,0,0
+2023-2024,20.10.2023,Newcastle Red Bulls,Gloucester Rugby,14,18,1,2,1,1,0,2,0,0
+2023-2024,21.10.2023,Saracens,Bath Rugby,16,25,1,4,1,1,3,1,0,0
+2023-2024,21.10.2023,Northampton Saints,Bristol Bears,27,33,4,4,2,2,1,3,0,0
+2023-2024,21.10.2023,Leicester Tigers,Sale Sharks,17,24,3,3,1,3,0,1,0,0
+2023-2024,22.10.2023,Harlequins,Exeter Chiefs,22,14,3,2,2,2,1,0,0,0
+2023-2024,27.10.2023,Gloucester Rugby,Saracens,3,24,0,3,0,3,1,1,0,0
+2023-2024,28.10.2023,Bristol Bears,Harlequins,21,23,2,2,1,2,3,3,0,0
+2023-2024,28.10.2023,Exeter Chiefs,Sale Sharks,43,0,5,0,4,0,1,0,0,0
+2023-2024,28.10.2023,Bath Rugby,Leicester Tigers,24,25,2,1,1,1,4,6,0,0
+2023-2024,29.10.2023,Newcastle Red Bulls,Northampton Saints,14,16,1,1,0,1,3,3,0,0
+2023-2024,03.11.2023,Sale Sharks,Gloucester Rugby,24,10,4,1,2,1,0,1,0,0
+2023-2024,04.11.2023,Harlequins,Newcastle Red Bulls,40,12,6,1,5,0,0,0,0,0
+2023-2024,04.11.2023,Northampton Saints,Bath Rugby,24,18,3,2,3,1,1,2,0,0
+2023-2024,04.11.2023,Saracens,Leicester Tigers,32,17,4,2,3,2,2,1,0,0
+2023-2024,05.11.2023,Exeter Chiefs,Bristol Bears,29,20,4,3,3,1,1,1,0,0
+2023-2024,10.11.2023,Gloucester Rugby,Bath Rugby,27,45,3,5,3,5,2,1,0,0
+2023-2024,11.11.2023,Bristol Bears,Sale Sharks,13,27,1,4,1,2,2,0,0,1
+2023-2024,11.11.2023,Leicester Tigers,Harlequins,25,29,3,5,2,2,2,0,0,0
+2023-2024,12.11.2023,Newcastle Red Bulls,Saracens,12,50,2,7,1,6,0,1,0,0
+2023-2024,12.11.2023,Northampton Saints,Exeter Chiefs,34,19,4,3,4,2,2,0,0,0
+2023-2024,17.11.2023,Bath Rugby,Bristol Bears,20,19,2,3,2,2,2,0,0,0
+2023-2024,17.11.2023,Sale Sharks,Newcastle Red Bulls,40,22,6,4,5,1,0,0,0,0
+2023-2024,18.11.2023,Leicester Tigers,Northampton Saints,26,17,2,2,2,2,4,1,0,0
+2023-2024,18.11.2023,Harlequins,Saracens,10,38,1,6,1,4,1,0,0,0
+2023-2024,19.11.2023,Exeter Chiefs,Gloucester Rugby,25,24,3,4,2,2,2,0,0,0
+2023-2024,24.11.2023,Northampton Saints,Harlequins,36,33,5,5,4,4,1,0,0,0
+2023-2024,24.11.2023,Sale Sharks,Bath Rugby,11,9,1,0,0,0,2,3,0,0
+2023-2024,25.11.2023,Saracens,Bristol Bears,39,31,7,4,2,4,0,1,0,0
+2023-2024,25.11.2023,Gloucester Rugby,Leicester Tigers,20,38,2,4,2,3,2,4,0,0
+2023-2024,26.11.2023,Newcastle Red Bulls,Exeter Chiefs,14,20,2,3,2,1,0,1,0,0
+2023-2024,01.12.2023,Harlequins,Sale Sharks,36,3,5,0,4,0,1,1,0,0
+2023-2024,02.12.2023,Bath Rugby,Exeter Chiefs,41,24,6,3,4,3,1,1,0,0
+2023-2024,02.12.2023,Bristol Bears,Gloucester Rugby,51,26,7,4,5,3,2,0,0,0
+2023-2024,02.12.2023,Saracens,Northampton Saints,12,18,2,2,1,1,0,2,0,0
+2023-2024,03.12.2023,Leicester Tigers,Newcastle Red Bulls,47,3,7,0,6,0,0,1,0,0
+2023-2024,22.12.2023,Newcastle Red Bulls,Bristol Bears,13,21,1,3,1,3,2,0,0,0
+2023-2024,22.12.2023,Sale Sharks,Saracens,22,20,3,2,2,2,1,2,0,0
+2023-2024,23.12.2023,Exeter Chiefs,Leicester Tigers,29,10,3,2,2,0,1,0,0,0
+2023-2024,23.12.2023,Gloucester Rugby,Northampton Saints,29,31,4,5,3,3,1,0,0,0
+2023-2024,23.12.2023,Bath Rugby,Harlequins,25,17,4,3,1,1,1,0,0,0
+2023-2024,29.12.2023,Bristol Bears,Exeter Chiefs,14,24,2,4,2,2,0,0,0,0
+2023-2024,30.12.2023,Saracens,Newcastle Red Bulls,37,19,4,1,2,1,2,4,0,0
+2023-2024,30.12.2023,Northampton Saints,Sale Sharks,21,17,2,2,2,2,0,0,0,1
+2023-2024,30.12.2023,Harlequins,Gloucester Rugby,32,26,5,3,2,2,0,0,1,0
+2023-2024,31.12.2023,Leicester Tigers,Bath Rugby,35,22,4,3,4,2,0,1,0,0
+2023-2024,05.01.2024,Sale Sharks,Bristol Bears,14,22,2,3,2,2,0,1,0,0
+2023-2024,05.01.2024,Newcastle Red Bulls,Harlequins,3,24,0,4,0,2,1,0,0,0
+2023-2024,06.01.2024,Exeter Chiefs,Northampton Saints,36,42,5,6,4,6,1,0,0,0
+2023-2024,06.01.2024,Leicester Tigers,Saracens,19,10,3,1,2,1,0,1,0,0
+2023-2024,07.01.2024,Bath Rugby,Gloucester Rugby,17,10,3,1,1,1,0,1,0,0
+2023-2024,27.01.2024,Northampton Saints,Newcastle Red Bulls,38,13,5,1,3,1,0,2,0,0
+2023-2024,27.01.2024,Saracens,Exeter Chiefs,40,22,5,3,3,2,2,1,1,0
+2023-2024,27.01.2024,Bristol Bears,Bath Rugby,57,44,8,5,7,3,1,2,0,0
+2023-2024,28.01.2024,Gloucester Rugby,Sale Sharks,32,20,4,2,3,2,2,2,0,0
+2023-2024,26.01.2024,Harlequins,Leicester Tigers,19,20,3,2,2,2,0,2,0,0
+2023-2024,23.03.2024,Saracens,Harlequins,52,7,8,1,6,1,0,0,0,0
+2023-2024,24.03.2024,Bath Rugby,Sale Sharks,42,24,5,3,4,3,2,1,1,0
+2023-2024,22.03.2024,Bristol Bears,Northampton Saints,52,21,7,3,7,3,1,0,0,0
+2023-2024,23.03.2024,Exeter Chiefs,Newcastle Red Bulls,25,16,4,1,1,1,1,3,0,0
+2023-2024,22.03.2024,Leicester Tigers,Gloucester Rugby,25,27,4,3,1,3,1,2,0,0
+2023-2024,30.03.2024,Gloucester Rugby,Bristol Bears,24,33,3,5,3,4,1,0,0,0
+2023-2024,30.03.2024,Harlequins,Bath Rugby,40,36,6,5,5,4,0,1,0,0
+2023-2024,29.03.2024,Newcastle Red Bulls,Leicester Tigers,13,19,1,3,1,2,2,0,0,0
+2023-2024,29.03.2024,Northampton Saints,Saracens,41,30,5,4,5,2,2,2,0,0
+2023-2024,31.03.2024,Sale Sharks,Exeter Chiefs,41,5,6,1,4,0,1,0,0,0
+2023-2024,20.04.2024,Exeter Chiefs,Bath Rugby,14,26,2,4,2,3,0,0,0,0
+2023-2024,20.04.2024,Northampton Saints,Leicester Tigers,40,17,4,2,2,2,2,1,1,0
+2023-2024,21.04.2024,Sale Sharks,Harlequins,37,31,5,5,3,3,2,0,0,0
+2023-2024,20.04.2024,Saracens,Gloucester Rugby,46,24,7,4,4,2,1,0,0,0
+2023-2024,21.04.2024,Bristol Bears,Newcastle Red Bulls,85,14,13,2,10,2,0,0,0,0
+2023-2024,27.04.2024,Harlequins,Northampton Saints,41,32,6,4,4,3,1,2,0,0
+2023-2024,27.04.2024,Leicester Tigers,Bristol Bears,19,21,3,3,2,3,0,0,0,0
+2023-2024,28.04.2024,Newcastle Red Bulls,Sale Sharks,14,35,2,5,2,5,0,0,0,0
+2023-2024,26.04.2024,Bath Rugby,Saracens,12,15,2,2,1,1,0,1,0,0
+2023-2024,28.04.2024,Gloucester Rugby,Exeter Chiefs,17,38,3,5,1,5,0,1,0,0
+2023-2024,11.05.2024,Northampton Saints,Gloucester Rugby,90,0,14,0,10,0,0,0,0,0
+2023-2024,10.05.2024,Sale Sharks,Leicester Tigers,31,22,4,3,4,2,1,1,0,0
+2023-2024,11.05.2024,Bristol Bears,Saracens,20,41,2,4,2,3,2,5,0,0
+2023-2024,11.05.2024,Exeter Chiefs,Harlequins,58,26,7,4,7,3,3,0,0,0
+2023-2024,10.05.2024,Newcastle Red Bulls,Bath Rugby,17,28,3,4,1,4,0,0,0,0
+2023-2024,18.05.2024,Bath Rugby,Northampton Saints,43,12,6,2,5,1,1,0,0,0
+2023-2024,18.05.2024,Gloucester Rugby,Newcastle Red Bulls,54,14,8,2,7,2,0,0,0,0
+2023-2024,18.05.2024,Harlequins,Bristol Bears,28,53,4,7,4,6,0,2,0,0
+2023-2024,18.05.2024,Leicester Tigers,Exeter Chiefs,40,22,4,3,4,2,4,1,0,0
+2023-2024,18.05.2024,Saracens,Sale Sharks,10,20,1,2,1,2,1,2,0,0
+2024-2025,20.09.2024,Newcastle Red Bulls,Bristol Bears,3,24,0,4,0,2,1,0,0,0
+2024-2025,20.09.2024,Bath Rugby,Northampton Saints,38,16,5,1,5,1,1,3,0,0
+2024-2025,21.09.2024,Exeter Chiefs,Leicester Tigers,14,17,2,2,2,2,0,0,0,1
+2024-2025,21.09.2024,Gloucester Rugby,Saracens,26,35,4,5,3,2,0,2,0,0
+2024-2025,22.09.2024,Sale Sharks,Harlequins,12,11,0,1,0,0,4,2,0,0
+2024-2025,27.09.2024,Bristol Bears,Gloucester Rugby,41,44,6,5,4,5,1,3,0,0
+2024-2025,28.09.2024,Harlequins,Newcastle Red Bulls,28,14,4,2,4,2,0,0,0,0
+2024-2025,28.09.2024,Saracens,Sale Sharks,45,26,4,3,2,1,7,3,0,0
+2024-2025,28.09.2024,Northampton Saints,Exeter Chiefs,30,24,3,3,3,3,2,1,1,0
+2024-2025,29.09.2024,Leicester Tigers,Bath Rugby,15,20,2,3,1,1,1,1,0,0
+2024-2025,04.10.2024,Northampton Saints,Harlequins,33,29,4,4,3,3,0,1,0,0
+2024-2025,04.10.2024,Sale Sharks,Gloucester Rugby,31,27,5,4,3,2,0,1,0,0
+2024-2025,05.10.2024,Bath Rugby,Bristol Bears,26,36,4,5,3,4,0,1,0,0
+2024-2025,05.10.2024,Newcastle Red Bulls,Leicester Tigers,10,42,1,7,1,2,1,1,0,0
+2024-2025,06.10.2024,Saracens,Exeter Chiefs,29,14,5,2,2,2,0,0,0,0
+2024-2025,11.10.2024,Sale Sharks,Newcastle Red Bulls,43,10,5,1,4,1,1,1,0,0
+2024-2025,12.10.2024,Exeter Chiefs,Bristol Bears,35,40,4,6,3,5,3,0,0,0
+2024-2025,12.10.2024,Gloucester Rugby,Bath Rugby,31,55,4,7,4,5,1,1,0,0
+2024-2025,12.10.2024,Leicester Tigers,Northampton Saints,24,8,3,1,3,0,1,1,0,0
+2024-2025,13.10.2024,Harlequins,Saracens,17,10,2,1,2,1,1,1,0,0
+2024-2025,18.10.2024,Newcastle Red Bulls,Exeter Chiefs,24,18,3,2,3,1,0,2,1,0
+2024-2025,18.10.2024,Northampton Saints,Sale Sharks,47,17,7,2,6,2,0,1,0,0
+2024-2025,19.10.2024,Bristol Bears,Saracens,35,37,5,4,2,4,2,3,0,0
+2024-2025,19.10.2024,Harlequins,Bath Rugby,24,26,3,4,3,3,1,0,0,0
+2024-2025,20.10.2024,Leicester Tigers,Gloucester Rugby,29,26,4,4,3,3,1,0,0,0
+2024-2025,25.10.2024,Bristol Bears,Northampton Saints,31,23,4,3,4,1,1,2,0,0
+2024-2025,26.10.2024,Gloucester Rugby,Newcastle Red Bulls,36,7,6,1,3,1,0,0,0,0
+2024-2025,26.10.2024,Bath Rugby,Sale Sharks,40,13,6,1,5,1,0,2,0,0
+2024-2025,26.10.2024,Saracens,Leicester Tigers,29,32,4,3,3,2,1,2,0,0
+2024-2025,27.10.2024,Exeter Chiefs,Harlequins,19,36,3,5,2,4,0,1,0,0
+2024-2025,29.11.2024,Harlequins,Bristol Bears,24,48,4,6,2,6,0,2,0,0
+2024-2025,29.11.2024,Newcastle Red Bulls,Saracens,17,12,2,2,2,1,1,0,0,0
+2024-2025,30.11.2024,Northampton Saints,Gloucester Rugby,17,25,2,3,2,2,1,2,0,0
+2024-2025,30.11.2024,Bath Rugby,Exeter Chiefs,19,15,3,2,2,1,0,1,0,0
+2024-2025,01.12.2024,Sale Sharks,Leicester Tigers,39,25,6,3,3,2,1,2,0,0
+2024-2025,20.12.2024,Gloucester Rugby,Harlequins,14,0,2,0,2,0,0,0,0,0
+2024-2025,21.12.2024,Leicester Tigers,Bristol Bears,24,54,4,8,2,7,0,0,0,0
+2024-2025,21.12.2024,Newcastle Red Bulls,Bath Rugby,15,40,2,6,1,5,1,0,0,0
+2024-2025,21.12.2024,Sale Sharks,Exeter Chiefs,28,10,3,1,3,1,0,1,0,0
+2024-2025,22.12.2024,Saracens,Northampton Saints,39,24,6,4,3,2,1,0,0,0
+2024-2025,27.12.2024,Bristol Bears,Sale Sharks,0,38,0,4,0,3,0,3,0,1
+2024-2025,28.12.2024,Bath Rugby,Saracens,68,10,9,1,8,1,0,1,0,0
+2024-2025,28.12.2024,Northampton Saints,Newcastle Red Bulls,61,0,9,0,8,0,0,0,0,0
+2024-2025,28.12.2024,Harlequins,Leicester Tigers,34,34,4,4,4,4,2,2,0,0
+2024-2025,29.12.2024,Exeter Chiefs,Gloucester Rugby,22,15,3,2,2,1,1,1,0,0
+2024-2025,03.01.2025,Newcastle Red Bulls,Harlequins,14,38,2,5,2,5,0,1,0,0
+2024-2025,04.01.2025,Gloucester Rugby,Sale Sharks,36,20,5,3,4,1,1,1,0,0
+2024-2025,04.01.2025,Leicester Tigers,Exeter Chiefs,28,15,4,2,4,1,0,1,0,0
+2024-2025,04.01.2025,Saracens,Bristol Bears,35,26,5,4,2,3,2,0,0,0
+2024-2025,05.01.2025,Northampton Saints,Bath Rugby,35,34,4,5,3,3,3,1,0,0
+2024-2025,26.01.2025,Sale Sharks,Bath Rugby,23,32,3,4,1,3,2,2,0,0
+2024-2025,25.01.2025,Exeter Chiefs,Saracens,31,22,5,3,3,2,0,1,0,0
+2024-2025,25.01.2025,Gloucester Rugby,Leicester Tigers,38,31,5,4,5,4,1,1,0,0
+2024-2025,24.01.2025,Harlequins,Northampton Saints,22,19,4,3,1,2,0,0,0,0
+2024-2025,26.01.2025,Bristol Bears,Newcastle Red Bulls,55,35,8,5,6,5,1,0,0,0
+2024-2025,21.03.2025,Northampton Saints,Leicester Tigers,0,33,0,4,0,2,0,3,0,0
+2024-2025,23.03.2025,Bath Rugby,Gloucester Rugby,42,26,6,4,6,3,0,0,0,0
+2024-2025,22.03.2025,Saracens,Harlequins,12,23,2,2,1,2,0,3,0,0
+2024-2025,22.03.2025,Bristol Bears,Exeter Chiefs,52,38,8,6,6,4,0,0,0,0
+2024-2025,21.03.2025,Newcastle Red Bulls,Sale Sharks,15,39,2,5,1,4,1,2,0,0
+2024-2025,29.03.2025,Exeter Chiefs,Newcastle Red Bulls,17,15,3,2,1,1,0,1,0,0
+2024-2025,29.03.2025,Gloucester Rugby,Bristol Bears,53,28,9,4,4,4,0,0,0,0
+2024-2025,30.03.2025,Leicester Tigers,Saracens,22,29,3,4,2,3,0,0,1,1
+2024-2025,29.03.2025,Bath Rugby,Harlequins,47,28,7,4,6,4,0,0,0,0
+2024-2025,28.03.2025,Sale Sharks,Northampton Saints,27,24,4,4,2,2,1,0,0,0
+2024-2025,20.04.2025,Bristol Bears,Leicester Tigers,19,36,3,5,2,4,0,1,0,0
+2024-2025,19.04.2025,Saracens,Gloucester Rugby,36,14,6,2,3,2,0,0,0,0
+2024-2025,19.04.2025,Exeter Chiefs,Bath Rugby,24,26,3,3,3,2,1,0,0,0
+2024-2025,19.04.2025,Harlequins,Sale Sharks,29,43,4,7,3,4,1,0,0,0
+2024-2025,18.04.2025,Newcastle Red Bulls,Northampton Saints,34,35,5,5,3,5,1,0,0,0
+2024-2025,26.04.2025,Leicester Tigers,Harlequins,40,7,6,1,5,1,0,0,0,0
+2024-2025,26.04.2025,Northampton Saints,Bristol Bears,48,31,7,5,5,3,1,0,0,0
+2024-2025,26.04.2025,Bath Rugby,Newcastle Red Bulls,55,19,8,3,6,2,1,0,0,0
+2024-2025,25.04.2025,Sale Sharks,Saracens,25,7,3,1,2,1,2,0,0,0
+2024-2025,27.04.2025,Gloucester Rugby,Exeter Chiefs,79,17,13,3,7,1,0,0,0,0
+2024-2025,10.05.2025,Saracens,Newcastle Red Bulls,75,28,11,4,10,4,0,0,0,0
+2024-2025,11.05.2025,Exeter Chiefs,Northampton Saints,42,14,6,2,6,2,0,0,0,0
+2024-2025,10.05.2025,Harlequins,Gloucester Rugby,38,19,6,3,4,2,0,0,0,0
+2024-2025,09.05.2025,Leicester Tigers,Sale Sharks,44,34,5,5,5,3,3,1,0,0
+2024-2025,10.05.2025,Bristol Bears,Bath Rugby,36,14,6,2,3,2,0,0,0,0
+2024-2025,17.05.2025,Northampton Saints,Saracens,28,24,3,4,3,2,0,0,0,0
+2024-2025,17.05.2025,Bath Rugby,Leicester Tigers,43,15,7,2,4,1,0,1,0,0
+2024-2025,16.05.2025,Sale Sharks,Bristol Bears,41,27,5,5,5,1,2,0,0,0
+2024-2025,18.05.2025,Harlequins,Exeter Chiefs,24,22,3,3,3,2,1,1,0,0
+2024-2025,16.05.2025,Newcastle Red Bulls,Gloucester Rugby,12,26,2,3,1,2,0,0,0,0
+2024-2025,31.05.2025,Exeter Chiefs,Sale Sharks,26,30,4,3,3,3,0,3,0,0
+2024-2025,31.05.2025,Gloucester Rugby,Northampton Saints,41,26,7,4,3,3,0,0,0,0
+2024-2025,31.05.2025,Leicester Tigers,Newcastle Red Bulls,42,20,6,2,6,2,0,2,0,0
+2024-2025,31.05.2025,Bristol Bears,Harlequins,52,26,8,4,6,3,0,0,0,0
+2024-2025,31.05.2025,Saracens,Bath Rugby,36,26,6,4,3,3,0,0,0,0
+2025-2026,25.09.2025,Sale Sharks,Gloucester Rugby,27,10,4,1,2,1,1,1,0,0
+2025-2026,26.09.2025,Harlequins,Bath Rugby,31,47,5,7,3,6,0,0,0,0
+2025-2026,26.09.2025,Newcastle Red Bulls,Saracens,17,39,2,5,2,4,1,2,0,0
+2025-2026,28.09.2025,Northampton Saints,Exeter Chiefs,33,33,5,5,4,4,0,0,0,0
+2025-2026,28.09.2025,Bristol Bears,Leicester Tigers,42,24,5,4,4,2,3,0,0,0
+2025-2026,03.10.2025,Bath Rugby,Sale Sharks,28,16,4,1,4,1,0,1,0,2
+2025-2026,04.10.2025,Exeter Chiefs,Newcastle Red Bulls,38,15,6,2,4,1,0,1,0,0
+2025-2026,04.10.2025,Leicester Tigers,Harlequins,29,19,4,1,3,1,1,4,0,0
+2025-2026,04.10.2025,Saracens,Bristol Bears,50,17,7,3,6,1,1,0,0,0
+2025-2026,05.10.2025,Gloucester Rugby,Northampton Saints,35,37,5,4,5,4,0,3,0,0
+2025-2026,10.10.2025,Sale Sharks,Newcastle Red Bulls,57,5,9,1,6,0,0,0,0,0
+2025-2026,11.10.2025,Bristol Bears,Exeter Chiefs,18,14,2,2,1,2,2,0,0,0
+2025-2026,11.10.2025,Northampton Saints,Leicester Tigers,32,26,5,2,2,2,1,4,0,0
+2025-2026,11.10.2025,Bath Rugby,Gloucester Rugby,38,17,5,3,5,1,1,0,0,0
+2025-2026,12.10.2025,Harlequins,Saracens,20,14,2,2,2,2,2,0,0,0
+2025-2026,17.10.2025,Gloucester Rugby,Bristol Bears,34,49,5,7,3,7,1,0,0,0
+2025-2026,17.10.2025,Newcastle Red Bulls,Northampton Saints,19,36,3,5,2,4,0,1,0,0
+2025-2026,18.10.2025,Leicester Tigers,Bath Rugby,22,20,3,3,2,1,1,1,0,0
+2025-2026,18.10.2025,Saracens,Sale Sharks,65,14,9,2,5,2,1,0,0,0
+2025-2026,19.10.2025,Exeter Chiefs,Harlequins,38,0,5,0,5,0,1,0,0,0
+2025-2026,24.10.2025,Northampton Saints,Saracens,43,31,7,5,4,3,0,0,0,0
+2025-2026,25.10.2025,Exeter Chiefs,Gloucester Rugby,39,12,5,2,4,1,2,0,0,0
+2025-2026,25.10.2025,Harlequins,Newcastle Red Bulls,52,14,8,2,6,2,0,0,0,0
+2025-2026,25.10.2025,Bath Rugby,Bristol Bears,40,15,6,2,5,1,0,1,0,0
+2025-2026,25.10.2025,Leicester Tigers,Sale Sharks,36,35,5,5,4,5,1,0,0,0
+2025-2026,28.11.2025,Newcastle Red Bulls,Leicester Tigers,17,39,2,5,2,4,1,2,0,0
+2025-2026,28.11.2025,Sale Sharks,Exeter Chiefs,26,27,2,3,2,3,4,2,0,0
+2025-2026,29.11.2025,Gloucester Rugby,Harlequins,26,15,4,2,3,1,0,1,0,0
+2025-2026,29.11.2025,Bristol Bears,Northampton Saints,46,12,6,2,5,1,2,0,0,0
+2025-2026,30.11.2025,Saracens,Bath Rugby,29,36,4,5,3,4,0,1,1,0
+2025-2026,19.12.2025,Leicester Tigers,Gloucester Rugby,45,14,6,2,4,2,0,0,0,0
+2025-2026,20.12.2025,Northampton Saints,Sale Sharks,47,21,7,3,6,3,0,0,0,0
+2025-2026,20.12.2025,Saracens,Exeter Chiefs,24,30,3,4,1,2,0,2,0,0
+2025-2026,20.12.2025,Harlequins,Bristol Bears,14,40,2,6,2,5,0,0,0,0
+2025-2026,21.12.2025,Newcastle Red Bulls,Bath Rugby,14,50,2,8,2,5,0,0,0,0
+2025-2026,26.12.2025,Sale Sharks,Harlequins,43,17,7,2,4,2,0,1,0,0
+2025-2026,27.12.2025,Bristol Bears,Newcastle Red Bulls,36,27,6,4,3,2,0,1,0,0
+2025-2026,27.12.2025,Gloucester Rugby,Saracens,21,30,3,4,3,2,0,2,0,0
+2025-2026,27.12.2025,Bath Rugby,Northampton Saints,21,41,3,6,3,4,0,1,0,0
+2025-2026,28.12.2025,Exeter Chiefs,Leicester Tigers,24,10,3,1,3,1,1,1,0,0
+2025-2026,02.01.2026,Bristol Bears,Sale Sharks,19,17,3,2,2,2,0,1,0,0
+2025-2026,02.01.2026,Newcastle Red Bulls,Gloucester Rugby,25,19,3,3,2,2,2,0,0,0
+2025-2026,03.01.2026,Bath Rugby,Exeter Chiefs,33,26,5,4,4,3,0,0,0,0
+2025-2026,03.01.2026,Northampton Saints,Harlequins,66,21,10,3,8,3,0,0,0,0
+2025-2026,04.01.2026,Leicester Tigers,Saracens,36,28,5,4,4,4,1,0,0,0
