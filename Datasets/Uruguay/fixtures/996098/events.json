@@ -1,0 +1,388 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "996098"
+  },
+  "errors": [],
+  "results": 17,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 1,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 6692,
+        "name": "R. Costa"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 269374,
+        "name": "D. Hern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 6692,
+        "name": "R. Costa"
+      },
+      "assist": {
+        "id": 157136,
+        "name": "A. Santurio"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 243351,
+        "name": "R. Viera"
+      },
+      "assist": {
+        "id": 358052,
+        "name": "J. Baeza"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 51878,
+        "name": "P. Fag\u00fandez"
+      },
+      "assist": {
+        "id": 197515,
+        "name": "J. Quintana"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 52023,
+        "name": "P. Porcile"
+      },
+      "assist": {
+        "id": 57812,
+        "name": "C. Quintero"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 182024,
+        "name": "B. Scorza"
+      },
+      "assist": {
+        "id": 31033,
+        "name": "N. Schiappacasse"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 51604,
+        "name": "M. De Los Santos"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 265932,
+        "name": "S. Ram\u00edrez"
+      },
+      "assist": {
+        "id": 36480,
+        "name": "L. Pais"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 51783,
+        "name": "B. Veglio"
+      },
+      "assist": {
+        "id": 307845,
+        "name": "M. Su\u00e1rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 51832,
+        "name": "I. Neira"
+      },
+      "assist": {
+        "id": 59560,
+        "name": "A. Hern\u00e1ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 269374,
+        "name": "D. Hern\u00e1ndez"
+      },
+      "assist": {
+        "id": 51685,
+        "name": "G. Camargo"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 157136,
+        "name": "A. Santurio"
+      },
+      "assist": {
+        "id": 352930,
+        "name": "N. Ferreira"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 31033,
+        "name": "N. Schiappacasse"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 30690,
+        "name": "N. Fonseca"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 18295,
+        "name": "La Luz",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+      },
+      "player": {
+        "id": 51451,
+        "name": "S. Carrera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+      },
+      "player": {
+        "id": 36480,
+        "name": "L. Pais"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

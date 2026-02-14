@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "996094"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": -5,
+        "extra": null
+      },
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "player": {
+        "id": 51353,
+        "name": "Rodrigo Formento"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 51695,
+        "name": "M. Estol"
+      },
+      "assist": {
+        "id": 197511,
+        "name": "T. Galletto"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 51377,
+        "name": "Santiago Viera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "player": {
+        "id": 51577,
+        "name": "P. Garc\u00eda"
+      },
+      "assist": {
+        "id": 153255,
+        "name": "C. Barros"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 51357,
+        "name": "M. Brasil"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 51377,
+        "name": "S. Viera"
+      },
+      "assist": {
+        "id": 51399,
+        "name": "A. Lima"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "player": {
+        "id": 315569,
+        "name": "J. Lavega"
+      },
+      "assist": {
+        "id": 51407,
+        "name": "J. dos Santos"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "player": {
+        "id": 51461,
+        "name": "R. Crist\u00f3bal"
+      },
+      "assist": {
+        "id": 359083,
+        "name": "I. P\u00e9rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 6163,
+        "name": "H. Silveira"
+      },
+      "assist": {
+        "id": 101986,
+        "name": "F. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 5678,
+        "name": "A. Max"
+      },
+      "assist": {
+        "id": 266010,
+        "name": "A. Vila"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 51352,
+        "name": "E. Villar"
+      },
+      "assist": {
+        "id": 310184,
+        "name": "F. N\u00fa\u00f1ez"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "player": {
+        "id": 51407,
+        "name": "J. dos Santos"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 8
+      },
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "player": {
+        "id": 197511,
+        "name": "T. Galletto"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

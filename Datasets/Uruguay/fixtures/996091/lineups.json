@@ -1,0 +1,450 @@
+{
+  "get": "fixtures/lineups",
+  "parameters": {
+    "fixture": "996091"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png",
+        "colors": {
+          "player": {
+            "primary": "ffdf00",
+            "number": "ffffff",
+            "border": "ffdf00"
+          },
+          "goalkeeper": {
+            "primary": "000000",
+            "number": "ffff00",
+            "border": "000000"
+          }
+        }
+      },
+      "coach": {
+        "id": 507,
+        "name": "A. Arias",
+        "photo": "https://media.api-sports.io/football/coachs/507.png"
+      },
+      "formation": "4-2-3-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 51591,
+            "name": "T. Cardozo",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 134615,
+            "name": "L\u00e9o Coelho",
+            "number": 2,
+            "pos": "D",
+            "grid": "2:4"
+          }
+        },
+        {
+          "player": {
+            "id": 67906,
+            "name": "Y. Rak",
+            "number": 15,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 182025,
+            "name": "P. Milans",
+            "number": 27,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 278340,
+            "name": "V. Rodr\u00edguez",
+            "number": 17,
+            "pos": "M",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 10000,
+            "name": "C. S\u00e1nchez",
+            "number": 7,
+            "pos": "M",
+            "grid": "3:2"
+          }
+        },
+        {
+          "player": {
+            "id": 36020,
+            "name": "S. Rodr\u00edguez",
+            "number": 8,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 47260,
+            "name": "S. Crist\u00f3foro",
+            "number": 5,
+            "pos": "M",
+            "grid": "4:3"
+          }
+        },
+        {
+          "player": {
+            "id": 63546,
+            "name": "K. M\u00e9ndez",
+            "number": 10,
+            "pos": "F",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 51464,
+            "name": "I. Laquintana",
+            "number": 25,
+            "pos": "M",
+            "grid": "4:1"
+          }
+        },
+        {
+          "player": {
+            "id": 51756,
+            "name": "M. Arezo",
+            "number": 19,
+            "pos": "F",
+            "grid": "5:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 340495,
+            "name": "N. Rossi",
+            "number": 11,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 315243,
+            "name": "S. Homenchenko",
+            "number": 28,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 310756,
+            "name": "R. Saravia",
+            "number": 6,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 310757,
+            "name": "\u00d3. Cruz",
+            "number": 26,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 278341,
+            "name": "M. Alonso",
+            "number": 29,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 47160,
+            "name": "H. Menosse",
+            "number": 3,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 310751,
+            "name": "J. Ferreira",
+            "number": 4,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 844,
+            "name": "A. Hern\u00e1ndez",
+            "number": 9,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 134614,
+            "name": "J. Lima",
+            "number": 12,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 31296,
+            "name": "J. Ramos",
+            "number": 22,
+            "pos": "D",
+            "grid": null
+          }
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png",
+        "colors": {
+          "player": {
+            "primary": "ffffff",
+            "number": "000000",
+            "border": "ffffff"
+          },
+          "goalkeeper": {
+            "primary": "fafb00",
+            "number": "000000",
+            "border": "fafb00"
+          }
+        }
+      },
+      "coach": {
+        "id": 790,
+        "name": "L. N\u00fa\u00f1ez",
+        "photo": "https://media.api-sports.io/football/coachs/790.png"
+      },
+      "formation": "4-3-3",
+      "startXI": [
+        {
+          "player": {
+            "id": 51475,
+            "name": "D. Denis",
+            "number": 1,
+            "pos": "G",
+            "grid": "1:1"
+          }
+        },
+        {
+          "player": {
+            "id": 6019,
+            "name": "M. Abero",
+            "number": 16,
+            "pos": "D",
+            "grid": "2:4"
+          }
+        },
+        {
+          "player": {
+            "id": 51392,
+            "name": "H. Magallanes",
+            "number": 2,
+            "pos": "D",
+            "grid": "2:3"
+          }
+        },
+        {
+          "player": {
+            "id": 5745,
+            "name": "N. Cabral",
+            "number": 30,
+            "pos": "D",
+            "grid": "2:2"
+          }
+        },
+        {
+          "player": {
+            "id": 199076,
+            "name": "F. Souza",
+            "number": 28,
+            "pos": "D",
+            "grid": "2:1"
+          }
+        },
+        {
+          "player": {
+            "id": 36205,
+            "name": "F. Far\u00eda",
+            "number": 19,
+            "pos": "M",
+            "grid": "3:3"
+          }
+        },
+        {
+          "player": {
+            "id": 51889,
+            "name": "I. Ojeda",
+            "number": 5,
+            "pos": "M",
+            "grid": "3:2"
+          }
+        },
+        {
+          "player": {
+            "id": 51556,
+            "name": "G. P\u00e9rez",
+            "number": 20,
+            "pos": "M",
+            "grid": "3:1"
+          }
+        },
+        {
+          "player": {
+            "id": 51998,
+            "name": "C. Tiz\u00f3n",
+            "number": 11,
+            "pos": "M",
+            "grid": "4:3"
+          }
+        },
+        {
+          "player": {
+            "id": 51471,
+            "name": "N. Gonz\u00e1lez",
+            "number": 9,
+            "pos": "F",
+            "grid": "4:2"
+          }
+        },
+        {
+          "player": {
+            "id": 67899,
+            "name": "N. Acosta",
+            "number": 23,
+            "pos": "M",
+            "grid": "4:1"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 51343,
+            "name": "L. Rodr\u00edguez",
+            "number": 7,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 13394,
+            "name": "M. Cabrera",
+            "number": 8,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 70777,
+            "name": "T. Viudez",
+            "number": 10,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 51422,
+            "name": "A. Garc\u00eda",
+            "number": 4,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 301701,
+            "name": "D. Nand\u00edn",
+            "number": 33,
+            "pos": "F",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 52008,
+            "name": "G. Ara\u00fajo",
+            "number": 12,
+            "pos": "G",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 51688,
+            "name": "P. Lacoste",
+            "number": 13,
+            "pos": "D",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 283337,
+            "name": "S. C\u00e1ceres",
+            "number": 14,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 5889,
+            "name": "H. Pereira",
+            "number": 21,
+            "pos": "M",
+            "grid": null
+          }
+        },
+        {
+          "player": {
+            "id": 52015,
+            "name": "M. Rao",
+            "number": 26,
+            "pos": "D",
+            "grid": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "996091"
+  },
+  "errors": [],
+  "results": 21,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 51756,
+        "name": "M. Arezo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 36020,
+        "name": "Sebasti\u00e1n Rodr\u00edguez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51556,
+        "name": "Gast\u00f3n P\u00e9rez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 35,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51556,
+        "name": "G. P\u00e9rez"
+      },
+      "assist": {
+        "id": 51343,
+        "name": "L. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 36,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 134615,
+        "name": "L\u00e9o Coelho"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51889,
+        "name": "I. Ojeda"
+      },
+      "assist": {
+        "id": 13394,
+        "name": "M. Cabrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51998,
+        "name": "C. Tiz\u00f3n"
+      },
+      "assist": {
+        "id": 70777,
+        "name": "T. Viudez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 199076,
+        "name": "Fernando Souza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 5745,
+        "name": "Nicolas Cabral"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 10000,
+        "name": "C. S\u00e1nchez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 10000,
+        "name": "C. S\u00e1nchez"
+      },
+      "assist": {
+        "id": 340495,
+        "name": "N. Rossi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 63546,
+        "name": "K. M\u00e9ndez"
+      },
+      "assist": {
+        "id": 315243,
+        "name": "S. Homenchenko"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 199076,
+        "name": "F. Souza"
+      },
+      "assist": {
+        "id": 51422,
+        "name": "A. Garc\u00eda"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 47260,
+        "name": "S. Crist\u00f3foro"
+      },
+      "assist": {
+        "id": 310756,
+        "name": "R. Saravia"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 51756,
+        "name": "Mat\u00edas Arezo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51392,
+        "name": "Hugo Magallanes"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 51343,
+        "name": "Lucas Rodr\u00edguez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 67899,
+        "name": "N. Acosta"
+      },
+      "assist": {
+        "id": 301701,
+        "name": "D. Nand\u00edn"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 51756,
+        "name": "M. Arezo"
+      },
+      "assist": {
+        "id": 310757,
+        "name": "\u00d3. Cruz"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+      },
+      "player": {
+        "id": 36020,
+        "name": "S. Rodr\u00edguez"
+      },
+      "assist": {
+        "id": 278341,
+        "name": "M. Alonso"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2362,
+        "name": "Cerro",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+      },
+      "player": {
+        "id": 6019,
+        "name": "Mathias Abero"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

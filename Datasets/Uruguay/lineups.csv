@@ -1,0 +1,126 @@
+fixture_id,team_id,team_name,formation,player_id,player_name,lineup_type
+996091,2348,Penarol,4-2-3-1,51591,T. Cardozo,starter
+996091,2348,Penarol,4-2-3-1,134615,Léo Coelho,starter
+996091,2348,Penarol,4-2-3-1,67906,Y. Rak,starter
+996091,2348,Penarol,4-2-3-1,182025,P. Milans,starter
+996091,2348,Penarol,4-2-3-1,278340,V. Rodríguez,starter
+996091,2348,Penarol,4-2-3-1,10000,C. Sánchez,starter
+996091,2348,Penarol,4-2-3-1,36020,S. Rodríguez,starter
+996091,2348,Penarol,4-2-3-1,47260,S. Cristóforo,starter
+996091,2348,Penarol,4-2-3-1,63546,K. Méndez,starter
+996091,2348,Penarol,4-2-3-1,51464,I. Laquintana,starter
+996091,2348,Penarol,4-2-3-1,51756,M. Arezo,starter
+996091,2348,Penarol,4-2-3-1,340495,N. Rossi,sub
+996091,2348,Penarol,4-2-3-1,315243,S. Homenchenko,sub
+996091,2348,Penarol,4-2-3-1,310756,R. Saravia,sub
+996091,2348,Penarol,4-2-3-1,310757,Ó. Cruz,sub
+996091,2348,Penarol,4-2-3-1,278341,M. Alonso,sub
+996091,2348,Penarol,4-2-3-1,47160,H. Menosse,sub
+996091,2348,Penarol,4-2-3-1,310751,J. Ferreira,sub
+996091,2348,Penarol,4-2-3-1,844,A. Hernández,sub
+996091,2348,Penarol,4-2-3-1,134614,J. Lima,sub
+996091,2348,Penarol,4-2-3-1,31296,J. Ramos,sub
+996091,2362,Cerro,4-3-3,51475,D. Denis,starter
+996091,2362,Cerro,4-3-3,6019,M. Abero,starter
+996091,2362,Cerro,4-3-3,51392,H. Magallanes,starter
+996091,2362,Cerro,4-3-3,5745,N. Cabral,starter
+996091,2362,Cerro,4-3-3,199076,F. Souza,starter
+996091,2362,Cerro,4-3-3,36205,F. Faría,starter
+996091,2362,Cerro,4-3-3,51889,I. Ojeda,starter
+996091,2362,Cerro,4-3-3,51556,G. Pérez,starter
+996091,2362,Cerro,4-3-3,51998,C. Tizón,starter
+996091,2362,Cerro,4-3-3,51471,N. González,starter
+996091,2362,Cerro,4-3-3,67899,N. Acosta,starter
+996091,2362,Cerro,4-3-3,51343,L. Rodríguez,sub
+996091,2362,Cerro,4-3-3,13394,M. Cabrera,sub
+996091,2362,Cerro,4-3-3,70777,T. Viudez,sub
+996091,2362,Cerro,4-3-3,51422,A. García,sub
+996091,2362,Cerro,4-3-3,301701,D. Nandín,sub
+996091,2362,Cerro,4-3-3,52008,G. Araújo,sub
+996091,2362,Cerro,4-3-3,51688,P. Lacoste,sub
+996091,2362,Cerro,4-3-3,283337,S. Cáceres,sub
+996091,2362,Cerro,4-3-3,5889,H. Pereira,sub
+996091,2362,Cerro,4-3-3,52015,M. Rao,sub
+996092,2359,Racing Montevideo,,16269,N. Gentilio,starter
+996092,2359,Racing Montevideo,,153297,M. Velázquez,starter
+996092,2359,Racing Montevideo,,51394,F. Píriz,starter
+996092,2359,Racing Montevideo,,129879,F. Paredes,starter
+996092,2359,Racing Montevideo,,311773,S. Mouriño,starter
+996092,2359,Racing Montevideo,,51524,J. Varela,starter
+996092,2359,Racing Montevideo,,314967,A. Rodríguez,starter
+996092,2359,Racing Montevideo,,328767,G. Bolívar,starter
+996092,2359,Racing Montevideo,,265910,M. Benítez,starter
+996092,2359,Racing Montevideo,,359968,A. Alaniz,starter
+996092,2359,Racing Montevideo,,282921,R. Rey,starter
+996092,2359,Racing Montevideo,,51749,F. Ospitaleche,sub
+996092,2359,Racing Montevideo,,269905,J. Rivero,sub
+996092,2359,Racing Montevideo,,195511,Á. Pérez,sub
+996092,2359,Racing Montevideo,,242972,A. Gorocito,sub
+996092,2359,Racing Montevideo,,5689,T. Verón,sub
+996092,2359,Racing Montevideo,,51769,G. Bueno,sub
+996092,2359,Racing Montevideo,,6158,D. Sosa,sub
+996092,2359,Racing Montevideo,,321840,M. Núñez,sub
+996092,2359,Racing Montevideo,,51707,R. Odriozola,sub
+996092,2359,Racing Montevideo,,346268,A. Pereira,sub
+996092,2361,Boston River,,159154,S. Silva,starter
+996092,2361,Boston River,,51335,P. Silva,starter
+996092,2361,Boston River,,51419,L. Costa,starter
+996092,2361,Boston River,,152410,G. Rodríguez,starter
+996092,2361,Boston River,,94557,J. Urretaviscaya,starter
+996092,2361,Boston River,,199069,E. Sosa,starter
+996092,2361,Boston River,,316518,F. Barrios,starter
+996092,2361,Boston River,,360619,M. Torres,starter
+996092,2361,Boston River,,51495,M. Acuña,starter
+996092,2361,Boston River,,51470,E. Gómez,starter
+996092,2361,Boston River,,67902,C. Olivera,starter
+996092,2361,Boston River,,352933,S. Corbo,sub
+996092,2361,Boston River,,51549,Martín Alejandro Fernández,sub
+996092,2361,Boston River,,51645,L. Suhr,sub
+996092,2361,Boston River,,269373,B. Barja,sub
+996092,2361,Boston River,,51336,C. Valdez,sub
+996092,2361,Boston River,,283336,Martín Fernández Benítez,sub
+996092,2361,Boston River,,269491,J. González,sub
+996092,2361,Boston River,,146660,A. Dávila,sub
+996092,2361,Boston River,,101882,G. Allala,sub
+996092,2361,Boston River,,51736,J. Fernández,sub
+996094,2369,Cerro Largo,3-4-1-2,6074,R. Bacchia,starter
+996094,2369,Cerro Largo,3-4-1-2,51568,R. García,starter
+996094,2369,Cerro Largo,3-4-1-2,51909,R. Rabino,starter
+996094,2369,Cerro Largo,3-4-1-2,51357,M. Brasil,starter
+996094,2369,Cerro Largo,3-4-1-2,51360,N. Furtado,starter
+996094,2369,Cerro Largo,3-4-1-2,287213,M. Gianoli,starter
+996094,2369,Cerro Largo,3-4-1-2,5678,A. Max,starter
+996094,2369,Cerro Largo,3-4-1-2,51695,M. Estol,starter
+996094,2369,Cerro Largo,3-4-1-2,51377,S. Viera,starter
+996094,2369,Cerro Largo,3-4-1-2,6163,H. Silveira,starter
+996094,2369,Cerro Largo,3-4-1-2,51352,E. Villar,starter
+996094,2369,Cerro Largo,3-4-1-2,197511,T. Galletto,sub
+996094,2369,Cerro Largo,3-4-1-2,51399,A. Lima,sub
+996094,2369,Cerro Largo,3-4-1-2,101986,F. Rodríguez,sub
+996094,2369,Cerro Largo,3-4-1-2,266010,A. Vila,sub
+996094,2369,Cerro Largo,3-4-1-2,310184,F. Núñez,sub
+996094,2369,Cerro Largo,3-4-1-2,51421,B. Ferrarés,sub
+996094,2369,Cerro Largo,3-4-1-2,354782,B. González,sub
+996094,2369,Cerro Largo,3-4-1-2,101881,L. Correa,sub
+996094,2369,Cerro Largo,3-4-1-2,405827,E. Olivera,sub
+996094,2369,Cerro Largo,3-4-1-2,59542,R. Bentancur,sub
+996094,2351,CA River Plate,4-4-2,197510,F. Correa,starter
+996094,2351,CA River Plate,4-4-2,42146,G. Viera,starter
+996094,2351,CA River Plate,4-4-2,51624,S. Brunelli,starter
+996094,2351,CA River Plate,4-4-2,51626,F. Kidd,starter
+996094,2351,CA River Plate,4-4-2,316506,A. Chopitea,starter
+996094,2351,CA River Plate,4-4-2,51576,G. Castro,starter
+996094,2351,CA River Plate,4-4-2,51577,P. García,starter
+996094,2351,CA River Plate,4-4-2,51461,R. Cristóbal,starter
+996094,2351,CA River Plate,4-4-2,265933,M. Alfonso,starter
+996094,2351,CA River Plate,4-4-2,70845,H. Rivero,starter
+996094,2351,CA River Plate,4-4-2,315569,J. Lavega,starter
+996094,2351,CA River Plate,4-4-2,153255,C. Barros,sub
+996094,2351,CA River Plate,4-4-2,51407,J. dos Santos,sub
+996094,2351,CA River Plate,4-4-2,359083,I. Pérez,sub
+996094,2351,CA River Plate,4-4-2,51424,M. Marta,sub
+996094,2351,CA River Plate,4-4-2,81210,H. Salaberry,sub
+996094,2351,CA River Plate,4-4-2,377,M. Pereira,sub
+996094,2351,CA River Plate,4-4-2,51353,R. Formento,sub
+996094,2351,CA River Plate,4-4-2,405121,F. Barone,sub
+996094,2351,CA River Plate,4-4-2,354658,A. Vera,sub

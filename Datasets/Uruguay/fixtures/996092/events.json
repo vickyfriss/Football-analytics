@@ -1,0 +1,432 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "996092"
+  },
+  "errors": [],
+  "results": 19,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 51470,
+        "name": "E. Gomez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 153297,
+        "name": "M. Velazquez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 51524,
+        "name": "J. Varela"
+      },
+      "assist": {
+        "id": 51749,
+        "name": "F. Ospitaleche"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 360619,
+        "name": "M. Torres"
+      },
+      "assist": {
+        "id": 352933,
+        "name": "S. Corbo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 51470,
+        "name": "E. G\u00f3mez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 316518,
+        "name": "F. Barrios"
+      },
+      "assist": {
+        "id": 51549,
+        "name": "Mart\u00edn Alejandro Fern\u00e1ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 359968,
+        "name": "A. Alaniz"
+      },
+      "assist": {
+        "id": 269905,
+        "name": "J. Rivero"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 282921,
+        "name": "R. Rey"
+      },
+      "assist": {
+        "id": 195511,
+        "name": "\u00c1. P\u00e9rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 51707,
+        "name": "R. Odriozola"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 51707,
+        "name": "R. Odriozola"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 51707,
+        "name": "R. Odriozola"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 51470,
+        "name": "E. G\u00f3mez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 328767,
+        "name": "G. Bol\u00edvar"
+      },
+      "assist": {
+        "id": 242972,
+        "name": "A. Gorocito"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 265910,
+        "name": "M. Benitez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 51470,
+        "name": "E. G\u00f3mez"
+      },
+      "assist": {
+        "id": 51645,
+        "name": "L. Suhr"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+      },
+      "player": {
+        "id": 265910,
+        "name": "M. Ben\u00edtez"
+      },
+      "assist": {
+        "id": 5689,
+        "name": "T. Ver\u00f3n"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 51495,
+        "name": "M. Acu\u00f1a"
+      },
+      "assist": {
+        "id": 269373,
+        "name": "B. Barja"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 94557,
+        "name": "J. Urretaviscaya"
+      },
+      "assist": {
+        "id": 51336,
+        "name": "C. Valdez"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+      },
+      "player": {
+        "id": 269373,
+        "name": "B. Barja"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

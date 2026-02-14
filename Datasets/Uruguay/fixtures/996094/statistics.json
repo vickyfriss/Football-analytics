@@ -1,0 +1,160 @@
+{
+  "get": "fixtures/statistics",
+  "parameters": {
+    "fixture": "996094"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": null
+        },
+        {
+          "type": "Shots insidebox",
+          "value": null
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": null
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": null
+        },
+        {
+          "type": "Ball Possession",
+          "value": "45%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": null
+        },
+        {
+          "type": "Passes accurate",
+          "value": null
+        },
+        {
+          "type": "Passes %",
+          "value": null
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": null
+        },
+        {
+          "type": "Shots insidebox",
+          "value": null
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": null
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 6
+        },
+        {
+          "type": "Offsides",
+          "value": null
+        },
+        {
+          "type": "Ball Possession",
+          "value": "55%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": null
+        },
+        {
+          "type": "Passes accurate",
+          "value": null
+        },
+        {
+          "type": "Passes %",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

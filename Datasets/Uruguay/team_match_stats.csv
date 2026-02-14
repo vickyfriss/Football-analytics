@@ -1,0 +1,5 @@
+fixture_id,team_id,team_name,shots_on_goal,shots_off_goal,total_shots,blocked_shots,shots_insidebox,shots_outsidebox,fouls,corner_kicks,offsides,ball_possession,yellow_cards,red_cards,goalkeeper_saves,total_passes,passes_accurate,passes_pct
+996091,2348,Penarol,7,5,13,1.0,,,12,2,1.0,,3,0,1,,,
+996091,2362,Cerro,1,2,4,1.0,,,15,6,2.0,,6,0,5,,,
+996094,2369,Cerro Largo,3,3,7,,,,16,2,,45%,1,0,5,,,
+996094,2351,CA River Plate,6,5,11,,,,8,6,,55%,1,0,1,,,
