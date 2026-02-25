@@ -1,4 +1,5 @@
 .env
 *.env
 __pycache__/
-Datasets/Hyrox/Season_*/ # Ignore all Season_1 to Season_8 folders in Datasets/Hyrox
+# Ignore all Season_1 to Season_8 folders in Datasets/Hyrox
+Datasets/Hyrox/Season_*/
