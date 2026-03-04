@@ -1,0 +1,921 @@
+season_id;team_id;team_name;group_name;group_stage_place
+1;1;UC Sampdoria;A;advance to final
+1;2;Red Star Belgrade;A;drop out
+1;3;RSC Anderlecht;A;drop out
+1;4;Panathinaikos AO;A;drop out
+1;5;FC Barcelona;B;advance to final
+1;6;Sparta Prague;B;drop out
+1;7;SL Benfica;B;drop out
+1;8;Dynamo Kyiv;B;drop out
+2;9;Olympique Marseille;A;advance to final
+2;10;Rangers F.C.;A;drop out
+2;11;Club Brugge;A;drop out
+2;12;CSKA Moscow;A;drop out
+2;13;A.C. Milan;B;advance to final
+2;14;IFK Goteborg;B;drop out
+2;15;FC Porto;B;drop out
+2;16;PSV Eindhoven;B;drop out
+3;3;RSC Anderlecht;B;drop out
+3;5;FC Barcelona;A;first place 
+3;13;A.C. Milan;B;first place
+3;15;FC Porto;B;secound place
+3;17;Spartak Moscow;A;drop out
+3;18;AS Monaco;A;secound place
+3;19;Galatasaray SK;A;drop out
+3;20;Werder Bremen;B;drop out
+4;3;RSC Anderlecht;C;drop out
+4;5;FC Barcelona;A;secound place
+4;7;SL Benfica;C;first place
+4;8;Dynamo Kyiv;B;drop out
+4;13;A.C. Milan;D;secound place
+4;14;IFK Goteborg;A;first place
+4;17;Spartak Moscow;B;drop out
+4;19;Galatasaray SK;A;drop out
+4;21;AEK Athens;D;drop out
+4;22;Manchester United F.C.;A;drop out
+4;23;Paris Saint-Germain F.C.;B;first place
+4;24;FC Bayern Munich;B;secound place
+4;25;Hajduk Split;C;secound place
+4;26;CSA Steaua Bucuresti;C;drop out
+4;27;Ajax Amsterdam;D;first place
+4;28;Casino Salzburg;D;drop out
+5;4;Panathinaikos AO;A;first place
+5;10;Rangers F.C.;C;drop out
+5;15;FC Porto;A;drop out
+5;17;Spartak Moscow;B;first place
+5;26;CSA Steaua Bucuresti;C;drop out
+5;27;Ajax Amsterdam;D;first place
+5;29;FC Nantes;A;secound place
+5;30;AaB Aalborg;A;drop out
+5;31;Legia Warsaw;B;secound place
+5;32;Rosenborg BK;B;drop out
+5;33;Blackburn Rovers;B;drop out
+5;34;Juventus F.C.;C;first place
+5;35;Borussia Dortmund;C;secound place
+5;36;Real Madrid;D;secound place
+5;37;Ferencvaros TC;D;drop out
+5;38;Grasshopper Club Zurich;D;drop out
+6;10;Rangers F.C.;A;drop out
+6;13;A.C. Milan;D;drop out
+6;14;IFK Goteborg;D;drop out
+6;15;FC Porto;D;first place
+6;22;Manchester United F.C.;C;secound place
+6;26;CSA Steaua Bucuresti;B;drop out
+6;27;Ajax Amsterdam;A;secound place
+6;32;Rosenborg BK;D;secound place
+6;34;Juventus F.C.;C;first place
+6;35;Borussia Dortmund;B;secound place
+6;38;Grasshopper Club Zurich;A;drop out
+6;39;Fenerbahce SK;C;drop out
+6;40;Atletico Madrid;B;first place
+6;41;AJ Auxerre;A;first place
+6;42;Widzew Lodz;B;drop out
+6;43;Rapid Wien;C;drop out
+7;5;FC Barcelona;C;drop out
+7;6;Sparta Prague;A;drop out
+7;8;Dynamo Kyiv;C;first place
+7;14;IFK Goteborg;E;drop out
+7;15;FC Porto;D;drop out
+7;16;PSV Eindhoven;C;drop out
+7;18;AS Monaco;F;first place
+7;19;Galatasaray SK;A;drop out
+7;22;Manchester United F.C.;B;first place
+7;23;Paris Saint-Germain F.C.;E;drop out
+7;24;FC Bayern Munich;E;first place
+7;32;Rosenborg BK;D;drop out
+7;34;Juventus F.C.;B;secound place
+7;35;Borussia Dortmund;A;first place
+7;36;Real Madrid;D;first place
+7;44;Sporting CP;F;drop out
+7;45;Besiktas JK;E;drop out
+7;46;AC Parma;A;drop out
+7;47;Feyenoord Rotterdam;B;drop out
+7;48;FC Kosicee;B;drop out
+7;49;Newcastle United F.C.;C;drop out
+7;50;Olympiacos SFP;D;drop out
+7;51;Bayer Leverkusen;F;secound place
+7;52;Lierse SK;F;drop out
+8;4;Panathinaikos AO;F;drop out
+8;5;FC Barcelona;E;drop out
+8;7;SL Benfica;G;drop out
+8;8;Dynamo Kyiv;F;first place
+8;15;FC Porto;A;drop out
+8;16;PSV Eindhoven;G;drop out
+8;17;Spartak Moscow;C;drop out
+8;19;Galatasaray SK;B;drop out
+8;22;Manchester United F.C.;E;secound place
+8;24;FC Bayern Munich;E;first place
+8;27;Ajax Amsterdam;A;drop out
+8;32;Rosenborg BK;B;drop out
+8;34;Juventus F.C.;B;first place
+8;36;Real Madrid;C;secound place
+8;50;Olympiacos SFP;A;first place
+8;53;Inter Mediolan;C;first place
+8;54;Dinamo Zagreb;A;drop out
+8;55;Athletic Bilbao;B;drop out
+8;56;Sturm Graz;C;drop out
+8;57;Brondby IF;E;drop out
+8;58;RC Lens;F;drop out
+8;59;Arsenal F.C.;F;drop out
+8;60;FC Kaiserslautern;G;first place
+8;61;HJK Helsinki;G;drop out
+9;5;FC Barcelona;B;advance to secound group stage
+9;6;Sparta Prague;G;advance to secound group stage
+9;8;Dynamo Kyiv;A;advance to secound group stage
+9;9;Olympique Marseille;D;advance to secound group stage
+9;10;Rangers F.C.;F;Uefa Cup transfer
+9;13;A.C. Milan;H;drop out
+9;15;FC Porto;E;advance to secound group stage
+9;16;PSV Eindhoven;F;drop out
+9;17;Spartak Moscow;G;Uefa Cup transfer
+9;19;Galatasaray SK;H;Uefa Cup transfer
+9;22;Manchester United F.C.;D;advance to secound group stage
+9;24;FC Bayern Munich;F;advance to secound group stage
+9;32;Rosenborg BK;C;advance to secound group stage
+9;35;Borussia Dortmund;C;Uefa Cup transfer
+9;36;Real Madrid;E;advance to secound group stage
+9;47;Feyenoord Rotterdam;C;advance to secound group stage
+9;50;Olympiacos SFP;E;Uefa Cup transfer
+9;51;Bayer Leverkusen;A;Uefa Cup transfer
+9;54;Dinamo Zagreb;D;drop out
+9;59;Arsenal F.C.;B;Uefa Cup transfer
+9;65;Chelsea F.C.;H;advance to secound group stage
+9;66;S.S. Lazio;A;advance to secound group stage
+9;73;Valencia CF;F;advance to secound group stage
+9;85;Girondins Bordeaux;G;advance to secound group stage
+9;90;ACF Fiorentina;B;advance to secound group stage
+9;120;NK Maribor;A;drop out
+9;143;Boavista FC;C;drop out
+9;144;SK Sturm Graz;D;Uefa Cup transfer
+9;145;AIK Fotboll;B;drop out
+9;146;Molde FK;E;drop out
+9;147;Willem II;G;drop out
+9;148;Hertha BSC;H;advance to secound group stage
+10;3;RSC Anderlecht;G;advance to secound group stage
+10;4;Panathinaikos AO;E;advance to secound group stage
+10;5;FC Barcelona;H;Uefa Cup transfer
+10;6;Sparta Prague;B;drop out
+10;8;Dynamo Kyiv;G;drop out
+10;10;Rangers F.C.;D;Uefa Cup transfer
+10;13;A.C. Milan;H;advance to secound group stage
+10;16;PSV Eindhoven;G;Uefa Cup transfer
+10;17;Spartak Moscow;A;advance to secound group stage
+10;18;AS Monaco;D;drop out
+10;19;Galatasaray SK;D;advance to secound group stage
+10;22;Manchester United F.C.;G;advance to secound group stage
+10;23;Paris Saint-Germain F.C.;F;advance to secound group stage
+10;24;FC Bayern Munich;F;advance to secound group stage
+10;32;Rosenborg BK;F;Uefa Cup transfer
+10;34;Juventus F.C.;E;drop out
+10;36;Real Madrid;A;advance to secound group stage
+10;44;Sporting CP;A;drop out
+10;45;Besiktas JK;H;drop out
+10;50;Olympiacos SFP;C;Uefa Cup transfer
+10;51;Bayer Leverkusen;A;Uefa Cup transfer
+10;59;Arsenal F.C.;B;advance to secound group stage
+10;66;S.S. Lazio;B;advance to secound group stage
+10;67;Olympique Lyon;C;advance to secound group stage
+10;68;Deportivo La Coruna;E;advance to secound group stage
+10;73;Valencia CF;C;advance to secound group stage
+10;74;Shakhtar Donetsk;B;Uefa Cup transfer
+10;86;Hamburger SV;E;Uefa Cup transfer
+10;144;SK Sturm Graz;D;advance to secound group stage
+10;149;SC Heerenveen;C;drop out
+10;150;Helsingborgs IF;F;drop out
+10;151;Leeds United F.C.;H;advance to secound group stage
+11;3;RSC Anderlecht;A;drop out
+11;4;Panathinaikos AO;C;advance to secound group stage
+11;5;FC Barcelona;F;advance to secound group stage
+11;6;Sparta Prague;H;advance to secound group stage
+11;8;Dynamo Kyiv;B;drop out
+11;15;FC Porto;E;advance to secound group stage
+11;16;PSV Eindhoven;D;Uefa Cup transfer
+11;17;Spartak Moscow;H;drop out
+11;19;Galatasaray SK;D;advance to secound group stage
+11;22;Manchester United F.C.;G;advance to secound group stage
+11;24;FC Bayern Munich;H;advance to secound group stage
+11;29;FC Nantes;D;advance to secound group stage
+11;32;Rosenborg BK;E;drop out
+11;34;Juventus F.C.;E;advance to secound group stage
+11;35;Borussia Dortmund;B;Uefa Cup transfer
+11;36;Real Madrid;A;advance to secound group stage
+11;39;Fenerbahce SK;F;drop out
+11;47;Feyenoord Rotterdam;H;Uefa Cup transfer
+11;50;Olympiacos SFP;G;drop out
+11;51;Bayer Leverkusen;F;advance to secound group stage
+11;59;Arsenal F.C.;C;advance to secound group stage
+11;63;Celtic F.C.;E;Uefa Cup transfer
+11;64;Lokomotiv Moscow;A;Uefa Cup transfer
+11;66;S.S. Lazio;D;drop out
+11;67;Olympique Lyon;F;Uefa Cup transfer
+11;68;Deportivo La Coruna;G;advance to secound group stage
+11;72;AS Roma;A;advance to secound group stage
+11;75;Liverpool F.C.;B;advance to secound group stage
+11;77;FC Schalke 04;C;drop out
+11;78;Lille OSC;G;Uefa Cup transfer
+11;143;Boavista FC;B;advance to secound group stage
+11;152;RCD Mallorca;C;Uefa Cup transfer
+12;5;FC Barcelona;H;advance to secound group stage
+12;8;Dynamo Kyiv;E;Uefa Cup transfer
+12;11;Club Brugge;H;Uefa Cup transfer
+12;13;A.C. Milan;G;advance to secound group stage
+12;16;PSV Eindhoven;A;drop out
+12;17;Spartak Moscow;B;drop out
+12;19;Galatasaray SK;H;drop out
+12;21;AEK Athens;C;Uefa Cup transfer
+12;22;Manchester United F.C.;F;advance to secound group stage
+12;24;FC Bayern Munich;G;drop out
+12;27;Ajax Amsterdam;D;advance to secound group stage
+12;32;Rosenborg BK;D;drop out
+12;34;Juventus F.C.;E;advance to secound group stage
+12;35;Borussia Dortmund;A;advance to secound group stage
+12;36;Real Madrid;C;advance to secound group stage
+12;41;AJ Auxerre;A;Uefa Cup transfer
+12;47;Feyenoord Rotterdam;E;drop out
+12;49;Newcastle United F.C.;E;advance to secound group stage
+12;50;Olympiacos SFP;F;drop out
+12;51;Bayer Leverkusen;F;advance to secound group stage
+12;53;Inter Mediolan;D;advance to secound group stage
+12;58;RC Lens;G;Uefa Cup transfer
+12;59;Arsenal F.C.;A;advance to secound group stage
+12;64;Lokomotiv Moscow;H;advance to secound group stage
+12;67;Olympique Lyon;D;Uefa Cup transfer
+12;68;Deportivo La Coruna;G;advance to secound group stage
+12;72;AS Roma;C;advance to secound group stage
+12;73;Valencia CF;B;advance to secound group stage
+12;75;Liverpool F.C.;B;Uefa Cup transfer
+12;76;Maccabi Haifa;F;Uefa Cup transfer
+12;91;FC Basel;B;advance to secound group stage
+12;111;KRC Genk;C;drop out
+13;3;RSC Anderlecht;A;drop out
+13;4;Panathinaikos AO;E;Uefa Cup transfer
+13;6;Sparta Prague;G;secound place
+13;8;Dynamo Kyiv;B;drop out
+13;9;Olympique Marseille;F;Uefa Cup transfer
+13;10;Rangers F.C.;E;drop out
+13;11;Club Brugge;H;Uefa Cup transfer
+13;13;A.C. Milan;H;first place
+13;15;FC Porto;F;secound place
+13;16;PSV Eindhoven;C;Uefa Cup transfer
+13;18;AS Monaco;C;first place
+13;19;Galatasaray SK;D;Uefa Cup transfer
+13;21;AEK Athens;C;drop out
+13;22;Manchester United F.C.;E;first place
+13;24;FC Bayern Munich;A;secound place
+13;27;Ajax Amsterdam;H;drop out
+13;34;Juventus F.C.;D;first place
+13;36;Real Madrid;F;first place
+13;45;Besiktas JK;G;Uefa Cup transfer
+13;50;Olympiacos SFP;D;drop out
+13;53;Inter Mediolan;B;Uefa Cup transfer
+13;59;Arsenal F.C.;B;first place
+13;62;FK Partizan;F;drop out
+13;63;Celtic F.C.;A;Uefa Cup transfer
+13;64;Lokomotiv Moscow;B;secound place
+13;65;Chelsea F.C.;G;first place
+13;66;S.S. Lazio;G;drop out
+13;67;Olympique Lyon;A;first place
+13;68;Deportivo La Coruna;C;secound place
+13;69;Real Sociedad;D;secound place
+13;70;VfB Stuttgart;E;secound place
+13;71;Celta Vigo;H;secound place
+14;3;RSC Anderlecht;G;drop out
+14;4;Panathinaikos AO;E;Uefa Cup transfer
+14;5;FC Barcelona;F;secound place
+14;6;Sparta Prague;D;drop out
+14;8;Dynamo Kyiv;B;Uefa Cup transfer
+14;12;CSKA Moscow;H;Uefa Cup transfer
+14;13;A.C. Milan;F;first place
+14;15;FC Porto;H;secound place
+14;16;PSV Eindhoven;E;secound place
+14;18;AS Monaco;A;first place
+14;20;Werder Bremen;G;secound place
+14;22;Manchester United F.C.;D;secound place
+14;23;Paris Saint-Germain F.C.;H;drop out
+14;24;FC Bayern Munich;C;secound place
+14;27;Ajax Amsterdam;C;Uefa Cup transfer
+14;32;Rosenborg BK;E;drop out
+14;34;Juventus F.C.;C;first place
+14;36;Real Madrid;B;secound place
+14;39;Fenerbahce SK;D;Uefa Cup transfer
+14;50;Olympiacos SFP;A;Uefa Cup transfer
+14;51;Bayer Leverkusen;B;first place
+14;53;Inter Mediolan;G;first place
+14;59;Arsenal F.C.;E;first place
+14;63;Celtic F.C.;F;drop out
+14;65;Chelsea F.C.;H;first place
+14;67;Olympique Lyon;D;first place
+14;68;Deportivo La Coruna;A;drop out
+14;72;AS Roma;B;drop out
+14;73;Valencia CF;G;Uefa Cup transfer
+14;74;Shakhtar Donetsk;F;Uefa Cup transfer
+14;75;Liverpool F.C.;A;secound place
+14;76;Maccabi Haifa;C;drop out
+15;3;RSC Anderlecht;G;drop out
+15;4;Panathinaikos AO;C;drop out
+15;5;FC Barcelona;C;first place
+15;6;Sparta Prague;B;drop out
+15;7;SL Benfica;D;secound place
+15;10;Rangers F.C.;H;secound place
+15;11;Club Brugge;A;Uefa Cup transfer
+15;13;A.C. Milan;E;first place
+15;15;FC Porto;H;drop out
+15;16;PSV Eindhoven;E;secound place
+15;20;Werder Bremen;C;secound place
+15;22;Manchester United F.C.;D;drop out
+15;24;FC Bayern Munich;A;secound place
+15;27;Ajax Amsterdam;B;secound place
+15;32;Rosenborg BK;F;Uefa Cup transfer
+15;34;Juventus F.C.;A;first place
+15;36;Real Madrid;F;secound place
+15;39;Fenerbahce SK;E;drop out
+15;43;Rapid Wien;A;drop out
+15;50;Olympiacos SFP;F;drop out
+15;53;Inter Mediolan;H;first place
+15;59;Arsenal F.C.;B;first place
+15;65;Chelsea F.C.;G;secound place
+15;67;Olympique Lyon;F;first place
+15;75;Liverpool F.C.;G;first place
+15;77;FC Schalke 04;E;Uefa Cup transfer
+15;78;Lille OSC;D;Uefa Cup transfer
+15;79;FC Thun;B;Uefa Cup transfer
+15;80;Udinese Calcio;C;Uefa Cup transfer
+15;81;Villarreal CF;D;first place
+15;82;Real Betis;G;Uefa Cup transfer
+15;83;FC Petrzalka;H;Uefa Cup transfer
+16;3;RSC Anderlecht;H;drop out
+16;5;FC Barcelona;A;secound place
+16;7;SL Benfica;F;Uefa Cup transfer
+16;8;Dynamo Kyiv;E;drop out
+16;12;CSKA Moscow;G;Uefa Cup transfer
+16;13;A.C. Milan;H;first place
+16;15;FC Porto;G;secound place
+16;16;PSV Eindhoven;C;secound place
+16;17;Spartak Moscow;B;Uefa Cup transfer
+16;19;Galatasaray SK;C;drop out
+16;20;Werder Bremen;A;Uefa Cup transfer
+16;21;AEK Athens;H;Uefa Cup transfer
+16;22;Manchester United F.C.;F;first place
+16;24;FC Bayern Munich;B;first place
+16;26;CSA Steaua Bucuresti;E;Uefa Cup transfer
+16;36;Real Madrid;E;secound place
+16;44;Sporting CP;B;drop out
+16;50;Olympiacos SFP;D;drop out
+16;53;Inter Mediolan;B;secound place
+16;59;Arsenal F.C.;G;first place
+16;63;Celtic F.C.;F;secound place
+16;65;Chelsea F.C.;A;first place
+16;67;Olympique Lyon;E;first place
+16;72;AS Roma;D;secound place
+16;73;Valencia CF;D;first place
+16;74;Shakhtar Donetsk;D;Uefa Cup transfer
+16;75;Liverpool F.C.;C;first place
+16;78;Lille OSC;H;secound place
+16;84;F.C. Copenhagen;F;drop out
+16;85;Girondins Bordeaux;C;Uefa Cup transfer
+16;86;Hamburger SV;G;drop out
+16;87;Levski Sofia;A;drop out
+17;5;FC Barcelona;E;first place
+17;7;SL Benfica;D;Uefa Cup transfer
+17;9;Olympique Marseille;A;Uefa Cup transfer
+17;10;Rangers F.C.;E;Uefa Cup transfer
+17;12;CSKA Moscow;G;drop out
+17;13;A.C. Milan;D;first place
+17;15;FC Porto;A;first place
+17;16;PSV Eindhoven;G;Uefa Cup transfer
+17;20;Werder Bremen;C;Uefa Cup transfer
+17;22;Manchester United F.C.;F;first place
+17;26;CSA Steaua Bucuresti;H;drop out
+17;32;Rosenborg BK;B;Uefa Cup transfer
+17;36;Real Madrid;C;first place
+17;39;Fenerbahce SK;G;secound place
+17;44;Sporting CP;F;Uefa Cup transfer
+17;45;Besiktas JK;A;drop out
+17;50;Olympiacos SFP;C;secound place
+17;53;Inter Mediolan;G;first place
+17;59;Arsenal F.C.;H;secound place
+17;63;Celtic F.C.;D;secound place
+17;65;Chelsea F.C.;B;first place
+17;66;S.S. Lazio;C;drop out
+17;67;Olympique Lyon;E;secound place
+17;70;VfB Stuttgart;E;drop out
+17;72;AS Roma;F;secound place
+17;73;Valencia CF;B;drop out
+17;74;Shakhtar Donetsk;D;drop out
+17;74;Shakhtar Donetsk;F;drop out
+17;75;Liverpool F.C.;A;secound place
+17;77;FC Schalke 04;B;secound place
+17;88;Slavia Prague;H;Uefa Cup transfer
+17;89;Sevilla FC;H;first place
+18;4;Panathinaikos AO;B;first place
+18;5;FC Barcelona;C;first place
+18;8;Dynamo Kyiv;G;Uefa Cup transfer
+18;9;Olympique Marseille;D;Uefa Cup transfer
+18;15;FC Porto;G;first place
+18;16;PSV Eindhoven;D;drop out
+18;20;Werder Bremen;B;Uefa Cup transfer
+18;22;Manchester United F.C.;E;first place
+18;24;FC Bayern Munich;F;first place
+18;26;CSA Steaua Bucuresti;F;drop out
+18;30;AaB Aalborg;E;Uefa Cup transfer
+18;34;Juventus F.C.;H;first place
+18;36;Real Madrid;H;secound place
+18;39;Fenerbahce SK;G;drop out
+18;40;Atletico Madrid;D;secound place
+18;44;Sporting CP;C;secound place
+18;53;Inter Mediolan;B;secound place
+18;59;Arsenal F.C.;G;secound place
+18;63;Celtic F.C.;E;drop out
+18;65;Chelsea F.C.;A;secound place
+18;67;Olympique Lyon;F;secound place
+18;72;AS Roma;A;first place
+18;74;Shakhtar Donetsk;C;Uefa Cup transfer
+18;75;Liverpool F.C.;D;first place
+18;81;Villarreal CF;E;secound place
+18;85;Girondins Bordeaux;A;Uefa Cup transfer
+18;90;ACF Fiorentina;F;Uefa Cup transfer
+18;91;FC Basel;C;drop out
+18;92;CFR Cluj;A;drop out
+18;93;Anorthosis Anorthosis Famagusta;B;drop out
+18;94;Zenit Saint Petersburg;H;Uefa Cup transfer
+18;95;BATE Borisov;H;drop out
+19;5;FC Barcelona;F;first place
+19;8;Dynamo Kyiv;F;drop out
+19;9;Olympique Marseille;C;Europa League transfer
+19;10;Rangers F.C.;G;drop out
+19;12;CSKA Moscow;B;secound place
+19;13;A.C. Milan;C;secound place
+19;15;FC Porto;D;secound place
+19;22;Manchester United F.C.;B;first place
+19;24;FC Bayern Munich;A;secound place
+19;34;Juventus F.C.;A;Europa League transfer
+19;36;Real Madrid;C;first place
+19;40;Atletico Madrid;D;Europa League transfer
+19;45;Besiktas JK;B;drop out
+19;50;Olympiacos SFP;H;secound place
+19;53;Inter Mediolan;F;secound place
+19;59;Arsenal F.C.;H;first place
+19;65;Chelsea F.C.;D;first place
+19;67;Olympique Lyon;E;secound place
+19;70;VfB Stuttgart;G;secound place
+19;75;Liverpool F.C.;E;Europa League transfer
+19;76;Maccabi Haifa;A;drop out
+19;85;Girondins Bordeaux;A;first place
+19;89;Sevilla FC;G;first place
+19;90;ACF Fiorentina;E;first place
+19;96;FC Zurich;C;drop out
+19;97;VfL Wolfsburg;B;Europa League transfer
+19;98;APOEL Nikosia;D;drop out
+19;99;Debreceni VSC;E;drop out
+19;100;Rubin Kazan;F;Europa League transfer
+19;101;Unirea Urziceni;G;Europa League transfer
+19;102;Standard Liege;H;Europa League transfer
+19;103;AZ Alkmaar;H;drop out
+20;4;Panathinaikos AO;D;drop out
+20;5;FC Barcelona;D;first place
+20;7;SL Benfica;B;Europa League transfer
+20;9;Olympique Marseille;F;secound place
+20;10;Rangers F.C.;C;Europa League transfer
+20;13;A.C. Milan;G;secound place
+20;17;Spartak Moscow;F;Europa League transfer
+20;20;Werder Bremen;A;drop out
+20;22;Manchester United F.C.;C;first place
+20;24;FC Bayern Munich;E;first place
+20;27;Ajax Amsterdam;G;Europa League transfer
+20;36;Real Madrid;G;first place
+20;41;AJ Auxerre;G;drop out
+20;53;Inter Mediolan;A;secound place
+20;59;Arsenal F.C.;H;secound place
+20;62;FK Partizan;H;drop out
+20;65;Chelsea F.C.;F;first place
+20;67;Olympique Lyon;B;secound place
+20;72;AS Roma;E;secound place
+20;73;Valencia CF;C;secound place
+20;74;Shakhtar Donetsk;H;first place
+20;77;FC Schalke 04;B;first place
+20;84;F.C. Copenhagen;D;secound place
+20;91;FC Basel;E;Europa League transfer
+20;92;CFR Cluj;E;drop out
+20;100;Rubin Kazan;D;Europa League transfer
+20;104;Tottenham Hotspur;A;first place
+20;105;HAPOEL Tel Awiw;B;drop out
+20;106;FC Twente;A;Europa League transfer
+20;107;Bursaspor;C;drop out
+20;108;MSK Zilina;F;drop out
+20;109;SC Braga;H;Europa League transfer
+21;5;FC Barcelona;H;first place
+21;7;SL Benfica;C;first place
+21;9;Olympique Marseille;F;secound place
+21;12;CSKA Moscow;B;secound place
+21;13;A.C. Milan;H;secound place
+21;15;FC Porto;G;Europa League transfer
+21;22;Manchester United F.C.;C;Europa League transfer
+21;24;FC Bayern Munich;A;first place
+21;27;Ajax Amsterdam;D;Europa League transfer
+21;35;Borussia Dortmund;F;drop out
+21;36;Real Madrid;D;first place
+21;50;Olympiacos SFP;F;Europa League transfer
+21;51;Bayer Leverkusen;E;secound place
+21;53;Inter Mediolan;B;first place
+21;54;Dinamo Zagreb;D;drop out
+21;59;Arsenal F.C.;F;first place
+21;65;Chelsea F.C.;E;first place
+21;67;Olympique Lyon;D;secound place
+21;73;Valencia CF;E;Europa League transfer
+21;74;Shakhtar Donetsk;G;drop out
+21;78;Lille OSC;B;drop out
+21;81;Villarreal CF;A;drop out
+21;91;FC Basel;C;secound place
+21;94;Zenit Saint Petersburg;G;secound place
+21;95;BATE Borisov;H;drop out
+21;98;APOEL Nikosia;G;first place
+21;110;Manchester City F.C.;A;Europa League transfer
+21;111;KRC Genk;E;drop out
+21;112;SSC Napoli;A;secound place
+21;113;Trabzonspor;B;Europa League transfer
+21;114;Otelul Galati;C;drop out
+21;115;FC Viktoria Plzen;H;Europa League transfer
+22;3;RSC Anderlecht;C;drop out
+22;5;FC Barcelona;G;first place
+22;7;SL Benfica;G;Europa League transfer
+22;8;Dynamo Kyiv;A;Europa League transfer
+22;13;A.C. Milan;C;secound place
+22;15;FC Porto;A;secound place
+22;17;Spartak Moscow;G;drop out
+22;19;Galatasaray SK;H;secound place
+22;22;Manchester United F.C.;H;first place
+22;23;Paris Saint-Germain F.C.;A;first place
+22;24;FC Bayern Munich;F;first place
+22;27;Ajax Amsterdam;D;Europa League transfer
+22;34;Juventus F.C.;E;first place
+22;35;Borussia Dortmund;D;first place
+22;36;Real Madrid;D;secound place
+22;50;Olympiacos SFP;B;Europa League transfer
+22;54;Dinamo Zagreb;A;drop out
+22;59;Arsenal F.C.;B;secound place
+22;63;Celtic F.C.;G;secound place
+22;65;Chelsea F.C.;E;Europa League transfer
+22;73;Valencia CF;F;secound place
+22;74;Shakhtar Donetsk;E;secound place
+22;77;FC Schalke 04;B;first place
+22;78;Lille OSC;F;drop out
+22;92;CFR Cluj;H;Europa League transfer
+22;94;Zenit Saint Petersburg;C;Europa League transfer
+22;95;BATE Borisov;F;Europa League transfer
+22;109;SC Braga;H;drop out
+22;110;Manchester City F.C.;D;drop out
+22;116;Montpellier HSC;B;drop out
+22;117;Malaga CF;C;first place
+22;118;Nordsjaelland;E;drop out
+23;3;RSC Anderlecht;C;drop out
+23;5;FC Barcelona;H;first place
+23;7;SL Benfica;C;Europa League transfer
+23;9;Olympique Marseille;F;drop out
+23;12;CSKA Moscow;D;drop out
+23;13;A.C. Milan;H;secound place
+23;15;FC Porto;G;Europa League transfer
+23;19;Galatasaray SK;B;secound place
+23;22;Manchester United F.C.;A;first place
+23;23;Paris Saint-Germain F.C.;C;first place
+23;24;FC Bayern Munich;D;first place
+23;26;CSA Steaua Bucuresti;E;drop out
+23;27;Ajax Amsterdam;H;Europa League transfer
+23;34;Juventus F.C.;B;Europa League transfer
+23;35;Borussia Dortmund;F;first place
+23;36;Real Madrid;B;first place
+23;40;Atletico Madrid;G;first place
+23;50;Olympiacos SFP;C;secound place
+23;51;Bayer Leverkusen;A;secound place
+23;59;Arsenal F.C.;F;secound place
+23;63;Celtic F.C.;H;drop out
+23;65;Chelsea F.C.;E;first place
+23;69;Real Sociedad;A;drop out
+23;74;Shakhtar Donetsk;A;Europa League transfer
+23;77;FC Schalke 04;E;secound place
+23;84;F.C. Copenhagen;B;drop out
+23;91;FC Basel;E;Europa League transfer
+23;94;Zenit Saint Petersburg;G;secound place
+23;110;Manchester City F.C.;D;secound place
+23;112;SSC Napoli;F;Europa League transfer
+23;115;FC Viktoria Plzen;D;Europa League transfer
+23;119;Austria Wien;G;drop out
+24;3;RSC Anderlecht;D;Europa League transfer
+24;5;FC Barcelona;F;first place
+24;7;SL Benfica;C;drop out
+24;12;CSKA Moscow;E;drop out
+24;15;FC Porto;H;first place
+24;18;AS Monaco;C;first place
+24;19;Galatasaray SK;D;drop out
+24;23;Paris Saint-Germain F.C.;F;secound place
+24;24;FC Bayern Munich;E;first place
+24;27;Ajax Amsterdam;F;Europa League transfer
+24;34;Juventus F.C.;A;secound place
+24;35;Borussia Dortmund;D;first place
+24;36;Real Madrid;B;first place
+24;40;Atletico Madrid;A;first place
+24;44;Sporting CP;G;Europa League transfer
+24;50;Olympiacos SFP;A;Europa League transfer
+24;51;Bayer Leverkusen;C;secound place
+24;55;Athletic Bilbao;H;Europa League transfer
+24;59;Arsenal F.C.;D;secound place
+24;65;Chelsea F.C.;G;first place
+24;72;AS Roma;E;Europa League transfer
+24;74;Shakhtar Donetsk;H;secound place
+24;75;Liverpool F.C.;B;Europa League transfer
+24;77;FC Schalke 04;G;secound place
+24;91;FC Basel;B;secound place
+24;94;Zenit Saint Petersburg;C;Europa League transfer
+24;95;BATE Borisov;H;drop out
+24;98;APOEL Nikosia;F;drop out
+24;110;Manchester City F.C.;E;secound place
+24;120;NK Maribor;G;drop out
+24;121;Malmo FF;A;drop out
+24;122;Ludogorets Razgrad;B;drop out
+25;5;FC Barcelona;E;first place
+25;7;SL Benfica;C;secound place
+25;8;Dynamo Kyiv;G;secound place
+25;12;CSKA Moscow;B;drop out
+25;15;FC Porto;G;Europa League transfer
+25;16;PSV Eindhoven;B;secound place
+25;19;Galatasaray SK;C;Europa League transfer
+25;22;Manchester United F.C.;B;Europa League transfer
+25;23;Paris Saint-Germain F.C.;A;secound place
+25;24;FC Bayern Munich;F;first place
+25;34;Juventus F.C.;D;secound place
+25;36;Real Madrid;A;first place
+25;40;Atletico Madrid;C;first place
+25;50;Olympiacos SFP;F;Europa League transfer
+25;51;Bayer Leverkusen;E;Europa League transfer
+25;54;Dinamo Zagreb;F;drop out
+25;59;Arsenal F.C.;F;secound place
+25;65;Chelsea F.C.;G;first place
+25;67;Olympique Lyon;H;drop out
+25;72;AS Roma;E;secound place
+25;73;Valencia CF;H;Europa League transfer
+25;74;Shakhtar Donetsk;A;Europa League transfer
+25;89;Sevilla FC;D;Europa League transfer
+25;94;Zenit Saint Petersburg;H;first place
+25;95;BATE Borisov;E;drop out
+25;97;VfL Wolfsburg;B;first place
+25;110;Manchester City F.C.;D;first place
+25;121;Malmo FF;A;drop out
+25;123;Maccabi Tel Aviv;G;drop out
+25;124;FC Astana;C;drop out
+25;125;Borussia Monchengladbach;D;drop out
+25;126;KAA Gent;H;secound place
+26;5;FC Barcelona;C;first place
+26;7;SL Benfica;B;secound place
+26;8;Dynamo Kyiv;B;drop out
+26;11;Club Brugge;G;drop out
+26;12;CSKA Moscow;E;drop out
+26;15;FC Porto;G;secound place
+26;16;PSV Eindhoven;D;drop out
+26;18;AS Monaco;E;first place
+26;23;Paris Saint-Germain F.C.;A;secound place
+26;24;FC Bayern Munich;D;secound place
+26;31;Legia Warsaw;F;Europa League transfer
+26;34;Juventus F.C.;H;first place
+26;35;Borussia Dortmund;F;first place
+26;36;Real Madrid;F;secound place
+26;40;Atletico Madrid;D;first place
+26;44;Sporting CP;F;drop out
+26;45;Besiktas JK;B;Europa League transfer
+26;51;Bayer Leverkusen;E;secound place
+26;54;Dinamo Zagreb;H;drop out
+26;59;Arsenal F.C.;A;first place
+26;63;Celtic F.C.;C;drop out
+26;67;Olympique Lyon;H;Europa League transfer
+26;84;F.C. Copenhagen;G;Europa League transfer
+26;89;Sevilla FC;H;secound place
+26;91;FC Basel;A;drop out
+26;104;Tottenham Hotspur;E;Europa League transfer
+26;110;Manchester City F.C.;C;secound place
+26;112;SSC Napoli;B;first place
+26;122;Ludogorets Razgrad;A;Europa League transfer
+26;125;Borussia Monchengladbach;C;Europa League transfer
+26;127;FC Rostov;D;Europa League transfer
+26;128;Leicester City;G;first place
+27;3;RSC Anderlecht;B;drop out
+27;5;FC Barcelona;D;first place
+27;7;SL Benfica;A;drop out
+27;12;CSKA Moscow;A;Europa League transfer
+27;15;FC Porto;G;secound place
+27;17;Spartak Moscow;E;Europa League transfer
+27;18;AS Monaco;G;drop out
+27;22;Manchester United F.C.;A;first place
+27;23;Paris Saint-Germain F.C.;B;first place
+27;24;FC Bayern Munich;B;secound place
+27;34;Juventus F.C.;D;secound place
+27;35;Borussia Dortmund;H;Europa League transfer
+27;36;Real Madrid;H;secound place
+27;40;Atletico Madrid;C;Europa League transfer
+27;44;Sporting CP;D;Europa League transfer
+27;45;Besiktas JK;G;first place
+27;47;Feyenoord Rotterdam;F;drop out
+27;50;Olympiacos SFP;D;drop out
+27;63;Celtic F.C.;B;Europa League transfer
+27;65;Chelsea F.C.;C;secound place
+27;72;AS Roma;C;first place
+27;74;Shakhtar Donetsk;F;secound place
+27;75;Liverpool F.C.;E;first place
+27;89;Sevilla FC;E;secound place
+27;91;FC Basel;A;secound place
+27;98;APOEL Nikosia;H;drop out
+27;104;Tottenham Hotspur;H;first place
+27;110;Manchester City F.C.;F;first place
+27;112;SSC Napoli;F;Europa League transfer
+27;120;NK Maribor;E;drop out
+27;129;Qarabag FK;C;drop out
+27;130;RB Leipzig;G;Europa League transfer
+28;2;Red Star Belgrade;C;drop out
+28;5;FC Barcelona;B;first place
+28;7;SL Benfica;E;Europa League transfer
+28;11;Club Brugge;A;Europa League transfer
+28;12;CSKA Moscow;G;drop out
+28;15;FC Porto;D;first place
+28;16;PSV Eindhoven;B;drop out
+28;18;AS Monaco;A;drop out
+28;19;Galatasaray SK;D;Europa League transfer
+28;21;AEK Athens;E;drop out
+28;22;Manchester United F.C.;H;secound place
+28;23;Paris Saint-Germain F.C.;C;first place
+28;24;FC Bayern Munich;E;first place
+28;27;Ajax Amsterdam;E;secound place
+28;34;Juventus F.C.;H;first place
+28;35;Borussia Dortmund;A;first place
+28;36;Real Madrid;G;first place
+28;40;Atletico Madrid;A;secound place
+28;53;Inter Mediolan;B;Europa League transfer
+28;64;Lokomotiv Moscow;D;drop out
+28;67;Olympique Lyon;F;secound place
+28;72;AS Roma;G;secound place
+28;73;Valencia CF;H;Europa League transfer
+28;74;Shakhtar Donetsk;F;Europa League transfer
+28;75;Liverpool F.C.;C;secound place
+28;77;FC Schalke 04;D;secound place
+28;104;Tottenham Hotspur;B;secound place
+28;110;Manchester City F.C.;F;first place
+28;112;SSC Napoli;C;Europa League transfer
+28;115;FC Viktoria Plzen;G;Europa League transfer
+28;131;TSG Hoffenheim;F;drop out
+28;132;BSC Young Boys;H;drop out
+29;2;Red Star Belgrade;B;drop out
+29;5;FC Barcelona;F;first place
+29;7;SL Benfica;G;Europa League transfer
+29;11;Club Brugge;A;Europa League transfer
+29;19;Galatasaray SK;A;drop out
+29;23;Paris Saint-Germain F.C.;A;first place
+29;24;FC Bayern Munich;B;first place
+29;27;Ajax Amsterdam;H;Europa League transfer
+29;34;Juventus F.C.;D;first place
+29;35;Borussia Dortmund;F;secound place
+29;36;Real Madrid;A;secound place
+29;40;Atletico Madrid;D;secound place
+29;50;Olympiacos SFP;B;Europa League transfer
+29;51;Bayer Leverkusen;D;Europa League transfer
+29;53;Inter Mediolan;F;Europa League transfer
+29;54;Dinamo Zagreb;C;drop out
+29;64;Lokomotiv Moscow;D;drop out
+29;65;Chelsea F.C.;H;secound place
+29;67;Olympique Lyon;G;secound place
+29;73;Valencia CF;H;first place
+29;74;Shakhtar Donetsk;C;Europa League transfer
+29;75;Liverpool F.C.;E;first place
+29;78;Lille OSC;H;drop out
+29;88;Slavia Prague;F;drop out
+29;94;Zenit Saint Petersburg;G;drop out
+29;104;Tottenham Hotspur;B;secound place
+29;110;Manchester City F.C.;C;first place
+29;111;KRC Genk;E;drop out
+29;112;SSC Napoli;E;secound place
+29;130;RB Leipzig;G;first place
+29;133;Red Bull Salzburg;E;Europa League transfer
+29;134;Atalanta BC;C;secound place
+30;5;FC Barcelona;G;secound place
+30;9;Olympique Marseille;C;drop out
+30;11;Club Brugge;F;Europa League transfer
+30;15;FC Porto;C;secound place
+30;22;Manchester United F.C.;H;Europa League transfer
+30;23;Paris Saint-Germain F.C.;H;first place
+30;24;FC Bayern Munich;A;secound place
+30;27;Ajax Amsterdam;D;Europa League transfer
+30;34;Juventus F.C.;G;first place
+30;35;Borussia Dortmund;F;first place
+30;36;Real Madrid;B;first place
+30;37;Ferencvaros TC;G;drop out
+30;40;Atletico Madrid;A;first place
+30;50;Olympiacos SFP;C;Europa League transfer
+30;53;Inter Mediolan;B;drop out
+30;54;Dinamo Zagreb;G;Europa League transfer
+30;64;Lokomotiv Moscow;A;drop out
+30;65;Chelsea F.C.;E;first place
+30;66;S.S. Lazio;F;secound place
+30;74;Shakhtar Donetsk;B;Europa League transfer
+30;75;Liverpool F.C.;D;first place
+30;89;Sevilla FC;E;secound place
+30;94;Zenit Saint Petersburg;F;drop out
+30;110;Manchester City F.C.;C;first place
+30;125;Borussia Monchengladbach;B;secound place
+30;130;RB Leipzig;H;secound place
+30;133;Red Bull Salzburg;A;Europa League transfer
+30;134;Atalanta BC;D;secound place
+30;135;Basaksehir FK;H;drop out
+30;136;FC Midtjylland;D;drop out
+30;137;FC Krasnodar;E;Europa League transfer
+30;138;Stade Rennais;E;drop out
+31;5;FC Barcelona;E;Europa League transfer
+31;7;SL Benfica;E;secound place
+31;8;Dynamo Kyiv;E;drop out
+31;11;Club Brugge;A;drop out
+31;13;A.C. Milan;B;drop out
+31;15;FC Porto;B;Europa League transfer
+31;22;Manchester United F.C.;F;first place
+31;23;Paris Saint-Germain F.C.;A;secound place
+31;24;FC Bayern Munich;E;first place
+31;27;Ajax Amsterdam;C;first place
+31;34;Juventus F.C.;H;first place
+31;35;Borussia Dortmund;C;Europa League transfer
+31;36;Real Madrid;D;first place
+31;40;Atletico Madrid;B;secound place
+31;44;Sporting CP;C;secound place
+31;45;Besiktas JK;C;drop out
+31;53;Inter Mediolan;D;secound place
+31;65;Chelsea F.C.;H;secound place
+31;74;Shakhtar Donetsk;D;Europa League transfer
+31;75;Liverpool F.C.;B;first place
+31;78;Lille OSC;G;first place
+31;81;Villarreal CF;F;secound place
+31;89;Sevilla FC;G;Europa League transfer
+31;94;Zenit Saint Petersburg;H;Europa League transfer
+31;97;VfL Wolfsburg;G;drop out
+31;110;Manchester City F.C.;A;first place
+31;121;Malmo FF;H;drop out
+31;130;RB Leipzig;A;Europa League transfer
+31;132;BSC Young Boys;F;drop out
+31;133;Red Bull Salzburg;G;secound place
+31;134;Atalanta BC;F;Europa League transfer
+31;139;FC Sheriff Tyraspol;D;drop out
+32;5;FC Barcelona;C;Europa League transfer
+32;7;SL Benfica;H;first place
+32;9;Olympique Marseille;D;drop out
+32;10;Rangers F.C.;A;drop out
+32;11;Club Brugge;B;secound place
+32;13;A.C. Milan;E;secound place
+32;15;FC Porto;B;first place
+32;23;Paris Saint-Germain F.C.;H;secound place
+32;24;FC Bayern Munich;C;first place
+32;27;Ajax Amsterdam;A;Europa League transfer
+32;34;Juventus F.C.;H;Europa League transfer
+32;35;Borussia Dortmund;G;secound place
+32;36;Real Madrid;F;first place
+32;40;Atletico Madrid;B;drop out
+32;44;Sporting CP;D;Europa League transfer
+32;51;Bayer Leverkusen;B;Europa League transfer
+32;53;Inter Mediolan;C;secound place
+32;54;Dinamo Zagreb;E;drop out
+32;63;Celtic F.C.;F;drop out
+32;65;Chelsea F.C.;E;first place
+32;74;Shakhtar Donetsk;F;Europa League transfer
+32;75;Liverpool F.C.;A;secound place
+32;76;Maccabi Haifa;H;drop out
+32;84;F.C. Copenhagen;G;drop out
+32;89;Sevilla FC;G;Europa League transfer
+32;104;Tottenham Hotspur;D;first place
+32;110;Manchester City F.C.;G;first place
+32;112;SSC Napoli;A;first place
+32;115;FC Viktoria Plzen;C;drop out
+32;130;RB Leipzig;F;secound place
+32;133;Red Bull Salzburg;E;Europa League transfer
+32;140;Eintracht Frankfurt;D;secound place
+33;2;Red Star Belgrade;G;drop out
+33;5;FC Barcelona;H;first place
+33;7;SL Benfica;D;Europa League transfer
+33;13;A.C. Milan;F;Europa League transfer
+33;15;FC Porto;H;secound place
+33;16;PSV Eindhoven;B;secound place
+33;19;Galatasaray SK;A;Europa League transfer
+33;22;Manchester United F.C.;A;drop out
+33;23;Paris Saint-Germain F.C.;F;secound place
+33;24;FC Bayern Munich;A;first place
+33;35;Borussia Dortmund;F;first place
+33;36;Real Madrid;C;first place
+33;40;Atletico Madrid;E;first place
+33;47;Feyenoord Rotterdam;E;Europa League transfer
+33;49;Newcastle United F.C.;F;drop out
+33;53;Inter Mediolan;D;secound place
+33;58;RC Lens;B;Europa League transfer
+33;59;Arsenal F.C.;B;first place
+33;63;Celtic F.C.;E;drop out
+33;66;S.S. Lazio;E;secound place
+33;69;Real Sociedad;D;first place
+33;74;Shakhtar Donetsk;H;Europa League transfer
+33;84;F.C. Copenhagen;A;secound place
+33;89;Sevilla FC;B;drop out
+33;109;SC Braga;C;Europa League transfer
+33;110;Manchester City F.C.;G;first place
+33;112;SSC Napoli;C;secound place
+33;130;RB Leipzig;G;secound place
+33;132;BSC Young Boys;G;Europa League transfer
+33;133;Red Bull Salzburg;D;drop out
+33;141;1.FC Union Berlin;C;drop out
+33;142;Royal Antwerp FC;H;drop out
