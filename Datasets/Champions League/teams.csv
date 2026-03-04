@@ -1,0 +1,153 @@
+team_id;team_name;country_code;country_name;city_name;latitude;longitude
+1;UC Sampdoria;ITA;Italy;Genoa;44.416667;8.933333
+2;Red Star Belgrade;SRB;Serbia;Belgrade;44.8;20.466667
+3;RSC Anderlecht;BEL;Belgium;Brussels;50.833333;4.35
+4;Panathinaikos AO;GRC;Greece;Athens;38;23.716667
+5;FC Barcelona;ESP;Spain;Barcelona;41.387917;2.169919
+6;Sparta Prague;CZE;Czech;Prague;50.087778;14.421111
+7;SL Benfica;PRT;Portugal;Lisbon;38.725278;-9.15
+8;Dynamo Kyiv;UKR;Ukraine;Kyiv;50.45;30.523333
+9;Olympique Marseille;FRA;France;Marseille;43.283333;5.366667
+10;Rangers F.C.;GBR;Scotland;Glasgow;55.87;-4.27
+11;Club Brugge;BEL;Belgium;Brugge;51.208889;3.224167
+12;CSKA Moscow;RUS;Russia;Moscow;55.75;37.616667
+13;A.C. Milan;ITA;Italy;Milan;45.466667;9.183333
+14;IFK Goteborg;SWE;Sweden;Goteborg;57.7;11.933333
+15;FC Porto;PRT;Portugal;Porto;41.15;-8.633333
+16;PSV Eindhoven;NLD;Netherlands;Eindhoven;51.433333;5.483333
+17;Spartak Moscow;RUS;Russia;Moscow;55.75;37.616667
+18;AS Monaco;FRA;France;Monacco;43.731111;7.42
+19;Galatasaray SK;TUR;Turkey;Stambul;41;29
+20;Werder Bremen;DEU;Germany;Bremen;53.083333;8.8
+21;AEK Athens;GRC;Greece;Athens;38;23.716667
+22;Manchester United F.C.;GBR;England;Manchester;53.483333;-2.25
+23;Paris Saint-Germain F.C.;FRA;France;Paris;48.866667;2.35
+24;FC Bayern Munich;DEU;Germany;Munich;48.133333;11.566667
+25;Hajduk Split;HRV;Croatia;Split;43.513889;16.455833
+26;CSA Steaua Bucuresti;ROU;Romania;Bucharest;44.416667;26.1
+27;Ajax Amsterdam;NLD;Netherlands;Amsterdam;52.366667;4.9
+28;Casino Salzburg;AUT;Austria;Salzburg;47.8;13.045
+29;FC Nantes;FRA;France;Nantes;47.216667;-1.55
+30;AaB Aalborg;DNK;Denmark;Aalborg;57.047222;9.92
+31;Legia Warsaw;POL;Poland;Warsaw;52.232222;21.008333
+32;Rosenborg BK;NOR;Norway;Trondheim;63.383333;10.35
+33;Blackburn Rovers;GBR;England;Blackburn;53.75;-2.483333
+34;Juventus F.C.;ITA;Italy;Turin;45.066667;7.7
+35;Borussia Dortmund;DEU;Germany;Dortmund;51.516667;7.466667
+36;Real Madrid;ESP;Spain;Madrid;40.417778;-3.694722
+37;Ferencvaros TC;HUN;Hungary;Budapest;47.5;19.05
+38;Grasshopper Club Zurich;CHE;Switzerland;Zurich;47.383333;8.533333
+39;Fenerbahce SK;TUR;Turkey;Stambul;41;29
+40;Atletico Madrid;ESP;Spain;Madrid;40.417778;-3.694722
+41;AJ Auxerre;FRA;France;Auxerre;47.798466;3.573582
+42;Widzew Lodz;POL;Poland;Lodz;51.776667;19.454722
+43;Rapid Wien;AUT;Austria;Vienna;48.216667;16.366667
+44;Sporting CP;PRT;Portugal;Lisbon;38.725278;-9.15
+45;Besiktas JK;TUR;Turkey;Stambul;41;29
+46;AC Parma;ITA;Italy;Parma;44.795056;10.331194
+47;Feyenoord Rotterdam;NLD;Netherlands;Rotterdam;51.916667;4.466667
+48;FC Kosicee;SVK;Slovakia;Kosicee;48.721667;21.257778
+49;Newcastle United F.C.;GBR;England;Newcastle;54.973889;-1.613333
+50;Olympiacos SFP;GRC;Greece;Pireus;37.95;23.633333
+51;Bayer Leverkusen;DEU;Germany;Leverkusen;51.033333;6.983333
+52;Lierse SK;BEL;Belgium;Lier;51.116667;4.583333
+53;Inter Mediolan;ITA;Italy;Milan;45.466667;9.183333
+54;Dinamo Zagreb;HRV;Croatia;Zagreb;45.8;15.966667
+55;Athletic Bilbao;ESP;Spain;Bilbao;43.266667;-2.933333
+56;Sturm Graz;AUT;Austria;Graz;47.070833;15.438611
+57;Brondby IF;DNK;Denmark;Copenhagen;55.666667;12.566667
+58;RC Lens;FRA;France;Lens;50.433333;2.833333
+59;Arsenal F.C.;GBR;England;London;51.5;-0.116667
+60;FC Kaiserslautern;DEU;Germany;Kaiserslautern;49.45;7.766667
+61;HJK Helsinki;FIN;Finland;Helsinki;60.166667;24.933333
+62;FK Partizan;SRB;Serbia;Belgrade;44.8;20.466667
+63;Celtic F.C.;GBR;Scotland;Glasgow;55.87;-4.27
+64;Lokomotiv Moscow;RUS;Russia;Moscow;55.75;37.616667
+65;Chelsea F.C.;GBR;England;London;51.5;-0.116667
+66;S.S. Lazio;ITA;Italy;Rome;41.893056;12.482778
+67;Olympique Lyon;FRA;France;Lyon;45.758889;4.841389
+68;Deportivo La Coruna;ESP;Spain;A Coruna;43.366667;-8.383333
+69;Real Sociedad;ESP;Spain;San Sebastian;43.321389;-1.985556
+70;VfB Stuttgart;DEU;Germany;Stuttgart;48.783333;9.183333
+71;Celta Vigo;ESP;Spain;Vigo;42.233333;-8.666667
+72;AS Roma;ITA;Italy;Rome;41.893056;12.482778
+73;Valencia CF;ESP;Spain;Valencia;39.483333;-0.366667
+74;Shakhtar Donetsk;UKR;Ukraine;Donetsk;48;37.8
+75;Liverpool F.C.;GBR;England;Liverpool;53.4;-2.983333
+76;Maccabi Haifa;ISR;Israel;Haifa;32.816389;35.0025
+77;FC Schalke 04;DEU;Germany;Gelsenkirchen;51.545;7.074444
+78;Lille OSC;FRA;France;Lille;50.633333;3.066667
+79;FC Thun;CHE;Switzerland;Thun;46.766667;7.633333
+80;Udinese Calcio;ITA;Italy;Udine;46.066667;13.233333
+81;Villarreal CF;ESP;Spain;Villarreal;39.937778;-0.101389
+82;Real Betis;ESP;Spain;Sevilla;37.377222;-5.986944
+83;FC Petrzalka;SVK;Slovakia;Bratislava;48.146825;17.107239
+84;F.C. Copenhagen;DNK;Denmark;Copenhagen;55.666667;12.566667
+85;Girondins Bordeaux;FRA;France;Bordeaux;44.833333;-0.566667
+86;Hamburger SV;DEU;Germany;Hamburg;53.55;10
+87;Levski Sofia;BGR;Bulgaria;Sofia;42.683333;23.316667
+88;Slavia Prague;CZE;Czech;Prague;50.087778;14.421111
+89;Sevilla FC;ESP;Spain;Sevilla;37.377222;-5.986944
+90;ACF Fiorentina;ITA;Italy;Florence;43.783333;11.25
+91;FC Basel;CHE;Switzerland;Basel;47.55;7.583333
+92;CFR Cluj;ROU;Romania;Cluj;46.766667;23.583333
+93;Anorthosis Famagusta;CYP;Cyprus;Larnaca;34.916667;33.633333
+94;Zenit Saint Petersburg;RUS;Russia;Moscow;55.75;37.616667
+95;BATE Borisov;BLR;Belarus;Barysaw;54.233333;28.5
+96;FC Zurich;CHE;Switzerland;Zurich;47.383333;8.533333
+97;VfL Wolfsburg;DEU;Germany;Wolfsburg;52.416667;10.783333
+98;APOEL Nikosia;CYP;Cyprus;Nicosia;35.166667;33.35
+99;Debreceni VSC;HUN;Hungary;Debrecen;47.533333;21.633333
+100;Rubin Kazan;RUS;Russia;Kazan;55.783333;49.116667
+101;Unirea Urziceni;ROU;Romania;Urziceni;44.718056;26.645278
+102;Standard Liege;BEL;Belgium;Liege;50.633333;5.566667
+103;AZ Alkmaar;NLD;Netherlands;Alkmaar;52.633333;4.733333
+104;Tottenham Hotspur;GBR;England;London;51.5;-0.116667
+105;HAPOEL Tel Awiw;ISR;Israel;Tel Aviv;32.080556;34.780556
+106;FC Twente;NLD;Netherlands;Enschede;52.216667;6.883333
+107;Bursaspor;TUR;Turkey;Bursa;40.191331;29.080539
+108;MSK Zilina;SVK;Slovakia;Zilina;49.222778;18.74
+109;SC Braga;PRT;Portugal;Braga;41.583333;-8.416667
+110;Manchester City F.C.;GBR;England;Manchester;53.483333;-2.25
+111;KRC Genk;BEL;Belgium;Genk;50.95;5.5
+112;SSC Napoli;ITA;Italy;Naples;40.835833;14.248611
+113;Trabzonspor;TUR;Turkey;Trabzon;41;39.733333
+114;Otelul Galati;ROU;Romania;Galati;45.416667;28.05
+115;FC Viktoria Plzen;CZE;Czech;Pilsen;49.733333;13.366667
+116;Montpellier HSC;FRA;France;Montpellier;43.6;3.883333
+117;Malaga CF;ESP;Spain;Malaga;36.75;-4.416667
+118;Nordsjaelland;DNK;Denmark;Farum;55.811944;12.373611
+119;Austria Wien;AUT;Austria;Vienna;48.216667;16.366667
+120;NK Maribor;SVN;Slovenia;Maribor;46.55;15.6
+121;Malmo FF;SWE;Sweden;Malmo;55.605833;13.0025
+122;Ludogorets Razgrad;BGR;Bulgaria;Razgrad;43.533333;26.516667
+123;Maccabi Tel Aviv;ISR;Israel;Tel Aviv;32.080556;34.780556
+124;FC Astana;KAZ;Kazakhstan;Astana;51.166667;71.416667
+125;Borussia Monchengladbach;DEU;Germany;Monchengladbach;51.183333;6.45
+126;KAA Gent;BEL;Belgium;Ghent;51.05;3.716667
+127;FC Rostov;RUS;Russia;Rostov;47.216667;39.7
+128;Leicester City;GBR;England;Leicester;52.635;-1.135
+129;Qarabag FK;AZE;Azerbaijan;Baku;40.383333;49.866667
+130;RB Leipzig;DEU;Germany;Leipzig;51.333333;12.366667
+131;TSG Hoffenheim;DEU;Germany;Hoffenheim;49.272222;8.844444
+132;BSC Young Boys;CHE;Switzerland;Bern;46.94798;7.44743
+133;Red Bull Salzburg;AUT;Austria;Salzburg;47.8;13.045
+134;Atalanta BC;ITA;Italy;Bergamo;45.7;9.666667
+135;Basaksehir FK;TUR;Turkey;Stambul;41;29
+136;FC Midtjylland;DNK;Denmark;Herning;56.133333;8.983333
+137;FC Krasnodar;RUS;Russia;Krasnodar;45.033333;38.983333
+138;Stade Rennais;FRA;France;Rennes;48.083333;-1.683333
+139;FC Sheriff Tyraspol;MDA;Moldova;Tiraspol;46.85;29.633333
+140;Eintracht Frankfurt;DEU;Germany;Frankfurt;50.116667;8.683333
+141;1.FC Union Berlin;DEU;Germany;Berlin;52.518611;13.408333
+142;Royal Antwerp FC;BEL;Belgium;Antwerp;51.216667;4.383333
+143;Boavista FC;PRT;Portugal;Lisbon;38.725278;-9.15
+144;SK Sturm Graz;AUT;Austria;Graz;47.070833;15.438611
+145;AIK Fotboll;SWE;Sweden;Solna;59.366667;18.016667
+146;Molde FK;NOR;Norway;Molde;62.733333;7.183333
+147;Willem II;NLD;Netherlands;Tilburg;51.57;5.07
+148;Hertha BSC;DEU;Germany;Berlin;52.518611;13.408333
+149;SC Heerenveen;NLD;Netherlands;Heerenveen;52.95;5.933333
+150;Helsingborgs IF;SWE;Sweden;Helsingborgs;56.045833;12.694444
+151;Leeds United F.C.;GBR;England;Leeds;53.799722;-1.549167
+152;RCD Mallorca;ESP;Spain;Mallorca;39.616667;2.983333

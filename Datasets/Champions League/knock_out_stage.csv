@@ -1,0 +1,762 @@
+season_id;team_id;team_name;knock_out_stage;knock_out_stage_status
+1;1;UC Sampdoria;final;loser
+1;5;FC Barcelona;final;winner
+2;9;Olympique Marseille;final;loser
+2;13;A.C. Milan;final;winner
+3;5;FC Barcelona;semi-final;advance to final
+3;18;AS Monaco;semi-final;drop out
+3;13;A.C. Milan;semi-final;advance to final
+3;15;FC Porto;semi-final;drop out
+3;5;FC Barcelona;final;loser
+3;13;A.C. Milan;final;winner
+4;14;IFK Goteborg;quater-final;drop out
+4;5;FC Barcelona;quater-final;drop out
+4;23;Paris Saint-Germain F.C.;quater-final;advance to semi-final
+4;24;FC Bayern Munich;quater-final;advance to semi-final
+4;7;SL Benfica;quater-final;drop out
+4;25;Hajduk Split;quater-final;drop out
+4;27;Ajax Amsterdam;quater-final;advance to semi-final
+4;13;A.C. Milan;quater-final;advance to semi-final
+4;23;Paris Saint-Germain F.C.;semi-final;drop out
+4;24;FC Bayern Munich;semi-final;drop out
+4;27;Ajax Amsterdam;semi-final;advance to final
+4;13;A.C. Milan;semi-final;advance to final
+4;27;Ajax Amsterdam;final;winner
+4;13;A.C. Milan;final;loser
+5;4;Panathinaikos AO;quater-final;advance to semi-final
+5;29;FC Nantes;quater-final;advance to semi-final
+5;17;Spartak Moscow;quater-final;drop out
+5;31;Legia Warsaw;quater-final;drop out
+5;34;Juventus F.C.;quater-final;advance to semi-final
+5;35;Borussia Dortmund;quater-final;drop out
+5;27;Ajax Amsterdam;quater-final;advance to semi-final
+5;36;Real Madrid;quater-final;drop out
+5;4;Panathinaikos AO;semi-final;drop out
+5;29;FC Nantes;semi-final;drop out
+5;34;Juventus F.C.;semi-final;advance to final
+5;27;Ajax Amsterdam;semi-final;advance to final
+5;34;Juventus F.C.;final;winner
+5;27;Ajax Amsterdam;final;loser
+6;41;AJ Auxerre;quater-final;drop out
+6;27;Ajax Amsterdam;quater-final;drop out
+6;40;Atletico Madrid;quater-final;drop out
+6;35;Borussia Dortmund;quater-final;advance to semi-final
+6;34;Juventus F.C.;quater-final;advance to semi-final
+6;22;Manchester United F.C.;quater-final;advance to semi-final
+6;15;FC Porto;quater-final;drop out
+6;32;Rosenborg BK;quater-final;drop out
+6;35;Borussia Dortmund;semi-final;advance to final
+6;34;Juventus F.C.;semi-final;advance to final
+6;22;Manchester United F.C.;semi-final;drop out
+6;35;Borussia Dortmund;final;winner
+6;34;Juventus F.C.;final;loser
+7;35;Borussia Dortmund;quater-final;advance to semi-final
+7;22;Manchester United F.C.;quater-final;drop out
+7;34;Juventus F.C.;quater-final;advance to semi-final
+7;8;Dynamo Kyiv;quater-final;drop out
+7;36;Real Madrid;quater-final;advance to semi-final
+7;24;FC Bayern Munich;quater-final;drop out
+7;18;AS Monaco;quater-final;advance to semi-final
+7;51;Bayer Leverkusen;quater-final;drop out
+7;35;Borussia Dortmund;semi-final;drop out
+7;34;Juventus F.C.;semi-final;advance to final
+7;36;Real Madrid;semi-final;advance to final
+7;18;AS Monaco;semi-final;drop out
+7;34;Juventus F.C.;final;loser
+7;36;Real Madrid;final;winner
+8;50;Olympiacos SFP;quater-final;drop out
+8;34;Juventus F.C.;quater-final;advance to semi-final
+8;53;Inter Mediolan;quater-final;drop out
+8;36;Real Madrid;quater-final;drop out
+8;24;FC Bayern Munich;quater-final;advance to semi-final
+8;22;Manchester United F.C.;quater-final;advance to semi-final
+8;8;Dynamo Kyiv;quater-final;advance to semi-final
+8;60;FC Kaiserslautern;quater-final;drop out
+8;34;Juventus F.C.;semi-final;drop out
+8;24;FC Bayern Munich;semi-final;advance to final
+8;22;Manchester United F.C.;semi-final;advance to final
+8;8;Dynamo Kyiv;semi-final;drop out
+8;24;FC Bayern Munich;final;loser
+8;22;Manchester United F.C.;final;winner
+9;66;S.S. Lazio;quater-final;drop out
+9;5;FC Barcelona;quater-final;advance to semi-final
+9;22;Manchester United F.C.;quater-final;drop out
+9;36;Real Madrid;quater-final;advance to semi-final
+9;15;FC Porto;quater-final;drop out
+9;73;Valencia CF;quater-final;advance to semi-final
+9;24;FC Bayern Munich;quater-final;advance to semi-final
+9;5;FC Barcelona;semi-final;drop out
+9;36;Real Madrid;semi-final;advance to final
+9;73;Valencia CF;semi-final;advance to final
+9;24;FC Bayern Munich;semi-final;drop out
+9;36;Real Madrid;final;winner
+9;73;Valencia CF;final;loser
+10;36;Real Madrid;quater-final;advance to semi-final
+10;59;Arsenal F.C.;quater-final;drop out
+10;73;Valencia CF;quater-final;advance to semi-final
+10;19;Galatasaray SK;quater-final;drop out
+10;68;Deportivo La Coruna;quater-final;drop out
+10;24;FC Bayern Munich;quater-final;advance to semi-final
+10;22;Manchester United F.C.;quater-final;drop out
+10;151;Leeds United F.C.;quater-final;advance to semi-final
+10;36;Real Madrid;semi-final;drop out
+10;73;Valencia CF;semi-final;advance to final
+10;24;FC Bayern Munich;semi-final;advance to final
+10;151;Leeds United F.C.;semi-final;drop out
+10;73;Valencia CF;final;loser
+10;24;FC Bayern Munich;final;winner
+11;36;Real Madrid;quater-final;advance to semi-final
+11;75;Liverpool F.C.;quater-final;drop out
+11;4;Panathinaikos AO;quater-final;drop out
+11;5;FC Barcelona;quater-final;advance to semi-final
+11;51;Bayer Leverkusen;quater-final;advance to semi-final
+11;68;Deportivo La Coruna;quater-final;drop out
+11;22;Manchester United F.C.;quater-final;advance to semi-final
+11;24;FC Bayern Munich;quater-final;drop out
+11;36;Real Madrid;semi-final;advance to final
+11;5;FC Barcelona;semi-final;drop out
+11;51;Bayer Leverkusen;semi-final;advance to final
+11;22;Manchester United F.C.;semi-final;drop out
+11;36;Real Madrid;final;winner
+11;51;Bayer Leverkusen;final;loser
+12;73;Valencia CF;quater-final;drop out
+12;36;Real Madrid;quater-final;advance to semi-final
+12;53;Inter Mediolan;quater-final;advance to semi-final
+12;27;Ajax Amsterdam;quater-final;drop out
+12;34;Juventus F.C.;quater-final;advance to semi-final
+12;22;Manchester United F.C.;quater-final;drop out
+12;13;A.C. Milan;quater-final;advance to semi-final
+12;5;FC Barcelona;quater-final;drop out
+12;36;Real Madrid;semi-final;drop out
+12;53;Inter Mediolan;semi-final;drop out
+12;34;Juventus F.C.;semi-final;advance to final
+12;13;A.C. Milan;semi-final;advance to final
+12;34;Juventus F.C.;final;loser
+12;13;A.C. Milan;final;winner
+13;67;Olympique Lyon;quater-final;drop out
+13;59;Arsenal F.C.;quater-final;drop out
+13;18;AS Monaco;quater-final;advance to semi-final
+13;68;Deportivo La Coruna;quater-final;advance to semi-final
+13;36;Real Madrid;quater-final;drop out
+13;15;FC Porto;quater-final;advance to semi-final
+13;65;Chelsea F.C.;quater-final;advance to semi-final
+13;13;A.C. Milan;quater-final;drop out
+13;67;Olympique Lyon;round 1 of 16;advance to quater-final
+13;24;FC Bayern Munich;round 1 of 16;drop out
+13;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+13;64;Lokomotiv Moscow;round 1 of 16;drop out
+13;18;AS Monaco;round 1 of 16;advance to quater-final
+13;68;Deportivo La Coruna;round 1 of 16;advance to quater-final
+13;34;Juventus F.C.;round 1 of 16;drop out
+13;69;Real Sociedad;round 1 of 16;drop out
+13;22;Manchester United F.C.;round 1 of 16;drop out
+13;70;VfB Stuttgart;round 1 of 16;drop out
+13;36;Real Madrid;round 1 of 16;advance to quater-final
+13;15;FC Porto;round 1 of 16;advance to quater-final
+13;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+13;6;Sparta Prague;round 1 of 16;drop out
+13;13;A.C. Milan;round 1 of 16;advance to quater-final
+13;71;Celta Vigo;round 1 of 16;drop out
+13;18;AS Monaco;semi-final;advance to final
+13;68;Deportivo La Coruna;semi-final;drop out
+13;15;FC Porto;semi-final;advance to final
+13;65;Chelsea F.C.;semi-final;drop out
+13;18;AS Monaco;final;loser
+13;15;FC Porto;final;winner
+14;75;Liverpool F.C.;quater-final;advance to semi-final
+14;34;Juventus F.C.;quater-final;drop out
+14;24;FC Bayern Munich;quater-final;drop out
+14;67;Olympique Lyon;quater-final;drop out
+14;16;PSV Eindhoven;quater-final;advance to semi-final
+14;13;A.C. Milan;quater-final;advance to semi-final
+14;53;Inter Mediolan;quater-final;drop out
+14;65;Chelsea F.C.;quater-final;advance to semi-final
+14;18;AS Monaco;round 1 of 16;drop out
+14;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+14;51;Bayer Leverkusen;round 1 of 16;drop out
+14;36;Real Madrid;round 1 of 16;drop out
+14;34;Juventus F.C.;round 1 of 16;advance to quater-final
+14;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+14;67;Olympique Lyon;round 1 of 16;advance to quater-final
+14;22;Manchester United F.C.;round 1 of 16;drop out
+14;59;Arsenal F.C.;round 1 of 16;drop out
+14;16;PSV Eindhoven;round 1 of 16;advance to quater-final
+14;13;A.C. Milan;round 1 of 16;advance to quater-final
+14;5;FC Barcelona;round 1 of 16;drop out
+14;53;Inter Mediolan;round 1 of 16;advance to quater-final
+14;20;Werder Bremen;round 1 of 16;drop out
+14;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+14;15;FC Porto;round 1 of 16;drop out
+14;75;Liverpool F.C.;semi-final;advance to final
+14;16;PSV Eindhoven;semi-final;drop out
+14;13;A.C. Milan;semi-final;advance to final
+14;65;Chelsea F.C.;semi-final;drop out
+14;75;Liverpool F.C.;final;winner
+14;13;A.C. Milan;final;loser
+15;34;Juventus F.C.;quater-final;drop out
+15;59;Arsenal F.C.;quater-final;advance to semi-final
+15;5;FC Barcelona;quater-final;advance to semi-final
+15;81;Villarreal CF;quater-final;advance to semi-final
+15;7;SL Benfica;quater-final;drop out
+15;13;A.C. Milan;quater-final;advance to semi-final
+15;67;Olympique Lyon;quater-final;drop out
+15;53;Inter Mediolan;quater-final;drop out
+15;34;Juventus F.C.;round 1 of 16;advance to quater-final
+15;24;FC Bayern Munich;round 1 of 16;drop out
+15;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+15;27;Ajax Amsterdam;round 1 of 16;drop out
+15;5;FC Barcelona;round 1 of 16;advance to quater-final
+15;20;Werder Bremen;round 1 of 16;drop out
+15;81;Villarreal CF;round 1 of 16;advance to quater-final
+15;7;SL Benfica;round 1 of 16;advance to quater-final
+15;13;A.C. Milan;round 1 of 16;advance to quater-final
+15;16;PSV Eindhoven;round 1 of 16;drop out
+15;67;Olympique Lyon;round 1 of 16;advance to quater-final
+15;36;Real Madrid;round 1 of 16;drop out
+15;75;Liverpool F.C.;round 1 of 16;drop out
+15;65;Chelsea F.C.;round 1 of 16;drop out
+15;53;Inter Mediolan;round 1 of 16;advance to quater-final
+15;10;Rangers F.C.;round 1 of 16;drop out
+15;59;Arsenal F.C.;semi-final;advance to final
+15;5;FC Barcelona;semi-final;advance to final
+15;81;Villarreal CF;semi-final;drop out
+15;13;A.C. Milan;semi-final;drop out
+15;59;Arsenal F.C.;final;loser
+15;5;FC Barcelona;final;winner
+16;65;Chelsea F.C.;quater-final;advance to semi-final
+16;24;FC Bayern Munich;quater-final;drop out
+16;75;Liverpool F.C.;quater-final;advance to semi-final
+16;16;PSV Eindhoven;quater-final;drop out
+16;73;Valencia CF;quater-final;drop out
+16;72;AS Roma;quater-final;drop out
+16;22;Manchester United F.C.;quater-final;advance to semi-final
+16;13;A.C. Milan;quater-final;advance to semi-final
+16;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+16;5;FC Barcelona;round 1 of 16;drop out
+16;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+16;53;Inter Mediolan;round 1 of 16;drop out
+16;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+16;16;PSV Eindhoven;round 1 of 16;advance to quater-final
+16;73;Valencia CF;round 1 of 16;advance to quater-final
+16;72;AS Roma;round 1 of 16;advance to quater-final
+16;67;Olympique Lyon;round 1 of 16;drop out
+16;36;Real Madrid;round 1 of 16;drop out
+16;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+16;63;Celtic F.C.;round 1 of 16;drop out
+16;59;Arsenal F.C.;round 1 of 16;drop out
+16;15;FC Porto;round 1 of 16;drop out
+16;13;A.C. Milan;round 1 of 16;advance to quater-final
+16;78;Lille OSC;round 1 of 16;drop out
+16;65;Chelsea F.C.;semi-final;drop out
+16;75;Liverpool F.C.;semi-final;advance to final
+16;22;Manchester United F.C.;semi-final;drop out
+16;13;A.C. Milan;semi-final;advance to final
+16;75;Liverpool F.C.;final;loser
+16;13;A.C. Milan;final;winner
+17;75;Liverpool F.C.;quater-final;advance to semi-final
+17;65;Chelsea F.C.;quater-final;advance to semi-final
+17;77;FC Schalke 04;quater-final;drop out
+17;5;FC Barcelona;quater-final;advance to semi-final
+17;22;Manchester United F.C.;quater-final;advance to semi-final
+17;72;AS Roma;quater-final;drop out
+17;39;Fenerbahce SK;quater-final;drop out
+17;59;Arsenal F.C.;quater-final;drop out
+17;15;FC Porto;round 1 of 16;drop out
+17;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+17;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+17;77;FC Schalke 04;round 1 of 16;advance to quater-final
+17;36;Real Madrid;round 1 of 16;drop out
+17;50;Olympiacos SFP;round 1 of 16;drop out
+17;13;A.C. Milan;round 1 of 16;drop out
+17;63;Celtic F.C.;round 1 of 16;drop out
+17;5;FC Barcelona;round 1 of 16;advance to quater-final
+17;67;Olympique Lyon;round 1 of 16;drop out
+17;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+17;72;AS Roma;round 1 of 16;advance to quater-final
+17;53;Inter Mediolan;round 1 of 16;drop out
+17;39;Fenerbahce SK;round 1 of 16;advance to quater-final
+17;89;Sevilla FC;round 1 of 16;drop out
+17;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+17;75;Liverpool F.C.;semi-final;drop out
+17;65;Chelsea F.C.;semi-final;advance to final
+17;5;FC Barcelona;semi-final;drop out
+17;22;Manchester United F.C.;semi-final;advance to final
+17;65;Chelsea F.C.;final;loser
+17;22;Manchester United F.C.;final;winner
+18;65;Chelsea F.C.;quater-final;advance to semi-final
+18;5;FC Barcelona;quater-final;advance to semi-final
+18;75;Liverpool F.C.;quater-final;drop out
+18;22;Manchester United F.C.;quater-final;advance to semi-final
+18;81;Villarreal CF;quater-final;drop out
+18;24;FC Bayern Munich;quater-final;drop out
+18;15;FC Porto;quater-final;drop out
+18;59;Arsenal F.C.;quater-final;advance to semi-final
+18;72;AS Roma;round 1 of 16;drop out
+18;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+18;4;Panathinaikos AO;round 1 of 16;drop out
+18;53;Inter Mediolan;round 1 of 16;drop out
+18;5;FC Barcelona;round 1 of 16;advance to quater-final
+18;44;Sporting CP;round 1 of 16;drop out
+18;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+18;40;Atletico Madrid;round 1 of 16;drop out
+18;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+18;81;Villarreal CF;round 1 of 16;advance to quater-final
+18;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+18;67;Olympique Lyon;round 1 of 16;drop out
+18;15;FC Porto;round 1 of 16;advance to quater-final
+18;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+18;34;Juventus F.C.;round 1 of 16;drop out
+18;36;Real Madrid;round 1 of 16;drop out
+18;65;Chelsea F.C.;semi-final;drop out
+18;5;FC Barcelona;semi-final;advance to final
+18;22;Manchester United F.C.;semi-final;drop out
+18;59;Arsenal F.C.;semi-final;drop out
+18;5;FC Barcelona;final;winner
+19;85;Girondins Bordeaux;quater-final;drop out
+19;24;FC Bayern Munich;quater-final;advance to semi-final
+19;22;Manchester United F.C.;quater-final;drop out
+19;12;CSKA Moscow;quater-final;drop out
+19;67;Olympique Lyon;quater-final;advance to semi-final
+19;5;FC Barcelona;quater-final;advance to semi-final
+19;53;Inter Mediolan;quater-final;advance to semi-final
+19;59;Arsenal F.C.;quater-final;drop out
+19;85;Girondins Bordeaux;round 1 of 16;advance to quater-final
+19;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+19;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+19;12;CSKA Moscow;round 1 of 16;advance to quater-final
+19;36;Real Madrid;round 1 of 16;drop out
+19;13;A.C. Milan;round 1 of 16;drop out
+19;65;Chelsea F.C.;round 1 of 16;drop out
+19;15;FC Porto;round 1 of 16;drop out
+19;90;ACF Fiorentina;round 1 of 16;drop out
+19;67;Olympique Lyon;round 1 of 16;advance to quater-final
+19;5;FC Barcelona;round 1 of 16;advance to quater-final
+19;53;Inter Mediolan;round 1 of 16;advance to quater-final
+19;89;Sevilla FC;round 1 of 16;drop out
+19;70;VfB Stuttgart;round 1 of 16;drop out
+19;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+19;50;Olympiacos SFP;round 1 of 16;drop out
+19;24;FC Bayern Munich;semi-final;advance to final
+19;67;Olympique Lyon;semi-final;drop out
+19;5;FC Barcelona;semi-final;drop out
+19;53;Inter Mediolan;semi-final;advance to final
+19;24;FC Bayern Munich;final;loser
+19;53;Inter Mediolan;final;winner
+20;104;Tottenham Hotspur;quater-final;drop out
+20;53;Inter Mediolan;quater-final;drop out
+20;77;FC Schalke 04;quater-final;advance to semi-final
+20;22;Manchester United F.C.;quater-final;advance to semi-final
+20;5;FC Barcelona;quater-final;advance to semi-final
+20;65;Chelsea F.C.;quater-final;drop out
+20;36;Real Madrid;quater-final;advance to semi-final
+20;74;Shakhtar Donetsk;quater-final;drop out
+20;104;Tottenham Hotspur;round 1 of 16;advance to quater-final
+20;53;Inter Mediolan;round 1 of 16;advance to quater-final
+20;77;FC Schalke 04;round 1 of 16;advance to quater-final
+20;67;Olympique Lyon;round 1 of 16;drop out
+20;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+20;73;Valencia CF;round 1 of 16;drop out
+20;5;FC Barcelona;round 1 of 16;advance to quater-final
+20;84;F.C. Copenhagen;round 1 of 16;drop out
+20;24;FC Bayern Munich;round 1 of 16;drop out
+20;72;AS Roma;round 1 of 16;drop out
+20;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+20;9;Olympique Marseille;round 1 of 16;drop out
+20;36;Real Madrid;round 1 of 16;advance to quater-final
+20;13;A.C. Milan;round 1 of 16;drop out
+20;74;Shakhtar Donetsk;round 1 of 16;advance to quater-final
+20;59;Arsenal F.C.;round 1 of 16;drop out
+20;77;FC Schalke 04;semi-final;drop out
+20;22;Manchester United F.C.;semi-final;advance to final
+20;5;FC Barcelona;semi-final;advance to final
+20;36;Real Madrid;semi-final;drop out
+20;22;Manchester United F.C.;final;loser
+20;5;FC Barcelona;final;winner
+21;24;FC Bayern Munich;quater-final;advance to semi-final
+21;7;SL Benfica;quater-final;drop out
+21;36;Real Madrid;quater-final;advance to semi-final
+21;65;Chelsea F.C.;quater-final;advance to semi-final
+21;9;Olympique Marseille;quater-final;drop out
+21;98;APOEL Nikosia;quater-final;drop out
+21;5;FC Barcelona;quater-final;advance to semi-final
+21;13;A.C. Milan;quater-final;drop out
+21;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+21;112;SSC Napoli;round 1 of 16;drop out
+21;53;Inter Mediolan;round 1 of 16;drop out
+21;12;CSKA Moscow;round 1 of 16;drop out
+21;7;SL Benfica;round 1 of 16;advance to quater-final
+21;91;FC Basel;round 1 of 16;drop out
+21;36;Real Madrid;round 1 of 16;advance to quater-final
+21;67;Olympique Lyon;round 1 of 16;drop out
+21;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+21;51;Bayer Leverkusen;round 1 of 16;drop out
+21;59;Arsenal F.C.;round 1 of 16;drop out
+21;9;Olympique Marseille;round 1 of 16;advance to quater-final
+21;98;APOEL Nikosia;round 1 of 16;advance to quater-final
+21;94;Zenit Saint Petersburg;round 1 of 16;drop out
+21;5;FC Barcelona;round 1 of 16;advance to quater-final
+21;13;A.C. Milan;round 1 of 16;advance to quater-final
+21;24;FC Bayern Munich;semi-final;drop out
+21;36;Real Madrid;semi-final;drop out
+21;65;Chelsea F.C.;semi-final;advance to final
+21;5;FC Barcelona;semi-final;drop out
+21;65;Chelsea F.C.;final;winner
+22;23;Paris Saint-Germain F.C.;quater-final;drop out
+22;117;Malaga CF;quater-final;drop out
+22;35;Borussia Dortmund;quater-final;advance to semi-final
+22;36;Real Madrid;quater-final;advance to semi-final
+22;34;Juventus F.C.;quater-final;drop out
+22;24;FC Bayern Munich;quater-final;advance to semi-final
+22;5;FC Barcelona;quater-final;advance to semi-final
+22;19;Galatasaray SK;quater-final;drop out
+22;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+22;15;FC Porto;round 1 of 16;drop out
+22;77;FC Schalke 04;round 1 of 16;drop out
+22;59;Arsenal F.C.;round 1 of 16;drop out
+22;117;Malaga CF;round 1 of 16;advance to quater-final
+22;13;A.C. Milan;round 1 of 16;drop out
+22;35;Borussia Dortmund;round 1 of 16;advance to quater-final
+22;36;Real Madrid;round 1 of 16;advance to quater-final
+22;34;Juventus F.C.;round 1 of 16;advance to quater-final
+22;74;Shakhtar Donetsk;round 1 of 16;drop out
+22;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+22;73;Valencia CF;round 1 of 16;drop out
+22;5;FC Barcelona;round 1 of 16;advance to quater-final
+22;63;Celtic F.C.;round 1 of 16;drop out
+22;22;Manchester United F.C.;round 1 of 16;drop out
+22;19;Galatasaray SK;round 1 of 16;advance to quater-final
+22;35;Borussia Dortmund;semi-final;advance to final
+22;36;Real Madrid;semi-final;drop out
+22;24;FC Bayern Munich;semi-final;advance to final
+22;5;FC Barcelona;semi-final;drop out
+22;35;Borussia Dortmund;final;loser
+22;24;FC Bayern Munich;final;winner
+23;22;Manchester United F.C.;quater-final;drop out
+23;36;Real Madrid;quater-final;advance to semi-final
+23;23;Paris Saint-Germain F.C.;quater-final;drop out
+23;24;FC Bayern Munich;quater-final;advance to semi-final
+23;65;Chelsea F.C.;quater-final;advance to semi-final
+23;35;Borussia Dortmund;quater-final;drop out
+23;40;Atletico Madrid;quater-final;advance to semi-final
+23;5;FC Barcelona;quater-final;drop out
+23;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+23;51;Bayer Leverkusen;round 1 of 16;drop out
+23;36;Real Madrid;round 1 of 16;advance to quater-final
+23;19;Galatasaray SK;round 1 of 16;drop out
+23;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+23;50;Olympiacos SFP;round 1 of 16;drop out
+23;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+23;110;Manchester City F.C.;round 1 of 16;drop out
+23;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+23;77;FC Schalke 04;round 1 of 16;drop out
+23;35;Borussia Dortmund;round 1 of 16;advance to quater-final
+23;59;Arsenal F.C.;round 1 of 16;drop out
+23;40;Atletico Madrid;round 1 of 16;advance to quater-final
+23;94;Zenit Saint Petersburg;round 1 of 16;drop out
+23;5;FC Barcelona;round 1 of 16;advance to quater-final
+23;13;A.C. Milan;round 1 of 16;drop out
+23;36;Real Madrid;semi-final;advance to final
+23;24;FC Bayern Munich;semi-final;drop out
+23;65;Chelsea F.C.;semi-final;drop out
+23;40;Atletico Madrid;semi-final;advance to final
+23;36;Real Madrid;final;winner
+23;40;Atletico Madrid;final;loser
+24;40;Atletico Madrid;quater-final;drop out
+24;34;Juventus F.C.;quater-final;advance to semi-final
+24;36;Real Madrid;quater-final;advance to semi-final
+24;24;FC Bayern Munich;quater-final;advance to semi-final
+24;5;FC Barcelona;quater-final;advance to semi-final
+24;23;Paris Saint-Germain F.C.;quater-final;drop out
+24;15;FC Porto;quater-final;drop out
+24;40;Atletico Madrid;round 1 of 16;advance to quater-final
+24;34;Juventus F.C.;round 1 of 16;advance to quater-final
+24;36;Real Madrid;round 1 of 16;advance to quater-final
+24;91;FC Basel;round 1 of 16;drop out
+24;18;AS Monaco;round 1 of 16;drop out
+24;51;Bayer Leverkusen;round 1 of 16;drop out
+24;35;Borussia Dortmund;round 1 of 16;drop out
+24;59;Arsenal F.C.;round 1 of 16;drop out
+24;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+24;110;Manchester City F.C.;round 1 of 16;drop out
+24;5;FC Barcelona;round 1 of 16;advance to quater-final
+24;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+24;65;Chelsea F.C.;round 1 of 16;drop out
+24;77;FC Schalke 04;round 1 of 16;drop out
+24;15;FC Porto;round 1 of 16;advance to quater-final
+24;74;Shakhtar Donetsk;round 1 of 16;drop out
+24;34;Juventus F.C.;semi-final;advance to final
+24;36;Real Madrid;semi-final;drop out
+24;24;FC Bayern Munich;semi-final;drop out
+24;5;FC Barcelona;semi-final;advance to final
+24;34;Juventus F.C.;final;loser
+24;5;FC Barcelona;final;winner
+25;36;Real Madrid;quater-final;advance to semi-final
+25;23;Paris Saint-Germain F.C.;quater-final;drop out
+25;97;VfL Wolfsburg;quater-final;drop out
+25;40;Atletico Madrid;quater-final;advance to semi-final
+25;7;SL Benfica;quater-final;drop out
+25;110;Manchester City F.C.;quater-final;advance to semi-final
+25;5;FC Barcelona;quater-final;drop out
+25;24;FC Bayern Munich;quater-final;advance to semi-final
+25;36;Real Madrid;round 1 of 16;advance to quater-final
+25;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+25;97;VfL Wolfsburg;round 1 of 16;advance to quater-final
+25;16;PSV Eindhoven;round 1 of 16;drop out
+25;40;Atletico Madrid;round 1 of 16;advance to quater-final
+25;7;SL Benfica;round 1 of 16;advance to quater-final
+25;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+25;34;Juventus F.C.;round 1 of 16;drop out
+25;5;FC Barcelona;round 1 of 16;advance to quater-final
+25;72;AS Roma;round 1 of 16;drop out
+25;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+25;59;Arsenal F.C.;round 1 of 16;drop out
+25;65;Chelsea F.C.;round 1 of 16;drop out
+25;8;Dynamo Kyiv;round 1 of 16;drop out
+25;94;Zenit Saint Petersburg;round 1 of 16;drop out
+25;126;KAA Gent;round 1 of 16;drop out
+25;36;Real Madrid;semi-final;advance to final
+25;40;Atletico Madrid;semi-final;advance to final
+25;110;Manchester City F.C.;semi-final;drop out
+25;24;FC Bayern Munich;semi-final;drop out
+25;36;Real Madrid;final;winner
+25;40;Atletico Madrid;final;loser
+26;5;FC Barcelona;quater-final;drop out
+26;40;Atletico Madrid;quater-final;advance to semi-final
+26;24;FC Bayern Munich;quater-final;drop out
+26;18;AS Monaco;quater-final;advance to semi-final
+26;35;Borussia Dortmund;quater-final;drop out
+26;36;Real Madrid;quater-final;advance to semi-final
+26;128;Leicester City;quater-final;drop out
+26;34;Juventus F.C.;quater-final;advance to semi-final
+26;59;Arsenal F.C.;round 1 of 16;drop out
+26;23;Paris Saint-Germain F.C.;round 1 of 16;drop out
+26;112;SSC Napoli;round 1 of 16;drop out
+26;7;SL Benfica;round 1 of 16;drop out
+26;5;FC Barcelona;round 1 of 16;advance to quater-final
+26;110;Manchester City F.C.;round 1 of 16;drop out
+26;40;Atletico Madrid;round 1 of 16;advance to quater-final
+26;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+26;18;AS Monaco;round 1 of 16;advance to quater-final
+26;51;Bayer Leverkusen;round 1 of 16;drop out
+26;35;Borussia Dortmund;round 1 of 16;advance to quater-final
+26;36;Real Madrid;round 1 of 16;advance to quater-final
+26;128;Leicester City;round 1 of 16;advance to quater-final
+26;15;FC Porto;round 1 of 16;drop out
+26;34;Juventus F.C.;round 1 of 16;advance to quater-final
+26;89;Sevilla FC;round 1 of 16;drop out
+26;40;Atletico Madrid;semi-final;drop out
+26;18;AS Monaco;semi-final;drop out
+26;36;Real Madrid;semi-final;advance to final
+26;34;Juventus F.C.;semi-final;advance to final
+26;36;Real Madrid;final;winner
+26;34;Juventus F.C.;final;loser
+27;24;FC Bayern Munich;quater-final;advance to semi-final
+27;72;AS Roma;quater-final;advance to semi-final
+27;5;FC Barcelona;quater-final;drop out
+27;34;Juventus F.C.;quater-final;drop out
+27;75;Liverpool F.C.;quater-final;advance to semi-final
+27;89;Sevilla FC;quater-final;drop out
+27;110;Manchester City F.C.;quater-final;drop out
+27;36;Real Madrid;quater-final;advance to semi-final
+27;22;Manchester United F.C.;round 1 of 16;drop out
+27;91;FC Basel;round 1 of 16;drop out
+27;23;Paris Saint-Germain F.C.;round 1 of 16;drop out
+27;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+27;72;AS Roma;round 1 of 16;advance to quater-final
+27;65;Chelsea F.C.;round 1 of 16;drop out
+27;5;FC Barcelona;round 1 of 16;advance to quater-final
+27;34;Juventus F.C.;round 1 of 16;advance to quater-final
+27;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+27;89;Sevilla FC;round 1 of 16;advance to quater-final
+27;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+27;74;Shakhtar Donetsk;round 1 of 16;drop out
+27;45;Besiktas JK;round 1 of 16;drop out
+27;15;FC Porto;round 1 of 16;drop out
+27;104;Tottenham Hotspur;round 1 of 16;drop out
+27;36;Real Madrid;round 1 of 16;advance to quater-final
+27;24;FC Bayern Munich;semi-final;drop out
+27;72;AS Roma;semi-final;drop out
+27;75;Liverpool F.C.;semi-final;advance to final
+27;36;Real Madrid;semi-final;advance to final
+27;75;Liverpool F.C.;final;loser
+27;36;Real Madrid;final;winner
+28;5;FC Barcelona;quater-final;advance to semi-final
+28;104;Tottenham Hotspur;quater-final;advance to semi-final
+28;75;Liverpool F.C.;quater-final;advance to semi-final
+28;15;FC Porto;quater-final;drop out
+28;27;Ajax Amsterdam;quater-final;advance to semi-final
+28;110;Manchester City F.C.;quater-final;drop out
+28;34;Juventus F.C.;quater-final;drop out
+28;22;Manchester United F.C.;quater-final;drop out
+28;35;Borussia Dortmund;round 1 of 16;drop out
+28;40;Atletico Madrid;round 1 of 16;drop out
+28;5;FC Barcelona;round 1 of 16;advance to quater-final
+28;104;Tottenham Hotspur;round 1 of 16;advance to quater-final
+28;23;Paris Saint-Germain F.C.;round 1 of 16;drop out
+28;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+28;15;FC Porto;round 1 of 16;advance to quater-final
+28;77;FC Schalke 04;round 1 of 16;drop out
+28;24;FC Bayern Munich;round 1 of 16;drop out
+28;27;Ajax Amsterdam;round 1 of 16;advance to quater-final
+28;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+28;67;Olympique Lyon;round 1 of 16;drop out
+28;36;Real Madrid;round 1 of 16;drop out
+28;72;AS Roma;round 1 of 16;drop out
+28;34;Juventus F.C.;round 1 of 16;advance to quater-final
+28;22;Manchester United F.C.;round 1 of 16;advance to quater-final
+28;5;FC Barcelona;semi-final;drop out
+28;104;Tottenham Hotspur;semi-final;advance to final
+28;75;Liverpool F.C.;semi-final;advance to final
+28;27;Ajax Amsterdam;semi-final;drop out
+28;104;Tottenham Hotspur;final;loser
+28;75;Liverpool F.C.;final;winner
+29;23;Paris Saint-Germain F.C.;quater-final;advance to semi-final
+29;24;FC Bayern Munich;quater-final;advance to semi-final
+29;110;Manchester City F.C.;quater-final;drop out
+29;134;Atalanta BC;quater-final;drop out
+29;40;Atletico Madrid;quater-final;drop out
+29;5;FC Barcelona;quater-final;drop out
+29;130;RB Leipzig;quater-final;advance to semi-final
+29;67;Olympique Lyon;quater-final;advance to semi-final
+29;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+29;36;Real Madrid;round 1 of 16;drop out
+29;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+29;104;Tottenham Hotspur;round 1 of 16;drop out
+29;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+29;134;Atalanta BC;round 1 of 16;advance to quater-final
+29;34;Juventus F.C.;round 1 of 16;drop out
+29;40;Atletico Madrid;round 1 of 16;advance to quater-final
+29;75;Liverpool F.C.;round 1 of 16;drop out
+29;112;SSC Napoli;round 1 of 16;drop out
+29;5;FC Barcelona;round 1 of 16;advance to quater-final
+29;35;Borussia Dortmund;round 1 of 16;drop out
+29;130;RB Leipzig;round 1 of 16;advance to quater-final
+29;67;Olympique Lyon;round 1 of 16;advance to quater-final
+29;73;Valencia CF;round 1 of 16;drop out
+29;65;Chelsea F.C.;round 1 of 16;drop out
+29;23;Paris Saint-Germain F.C.;semi-final;advance to final
+29;24;FC Bayern Munich;semi-final;advance to final
+29;130;RB Leipzig;semi-final;drop out
+29;67;Olympique Lyon;semi-final;drop out
+29;23;Paris Saint-Germain F.C.;final;loser
+29;24;FC Bayern Munich;final;winner
+30;24;FC Bayern Munich;quater-final;drop out
+30;36;Real Madrid;quater-final;advance to semi-final
+30;110;Manchester City F.C.;quater-final;advance to semi-final
+30;15;FC Porto;quater-final;drop out
+30;75;Liverpool F.C.;quater-final;drop out
+30;65;Chelsea F.C.;quater-final;advance to semi-final
+30;35;Borussia Dortmund;quater-final;drop out
+30;23;Paris Saint-Germain F.C.;quater-final;advance to semi-final
+30;40;Atletico Madrid;round 1 of 16;drop out
+30;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+30;36;Real Madrid;round 1 of 16;advance to quater-final
+30;125;Borussia Monchengladbach;round 1 of 16;drop out
+30;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+30;15;FC Porto;round 1 of 16;advance to quater-final
+30;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+30;134;Atalanta BC;round 1 of 16;drop out
+30;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+30;89;Sevilla FC;round 1 of 16;drop out
+30;35;Borussia Dortmund;round 1 of 16;advance to quater-final
+30;66;S.S. Lazio;round 1 of 16;drop out
+30;34;Juventus F.C.;round 1 of 16;drop out
+30;5;FC Barcelona;round 1 of 16;drop out
+30;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+30;130;RB Leipzig;round 1 of 16;drop out
+30;36;Real Madrid;semi-final;drop out
+30;110;Manchester City F.C.;semi-final;advance to final
+30;65;Chelsea F.C.;semi-final;advance to final
+30;23;Paris Saint-Germain F.C.;semi-final;drop out
+30;110;Manchester City F.C.;final;loser
+30;65;Chelsea F.C.;final;winner
+31;110;Manchester City F.C.;quater-final;advance to semi-final
+31;75;Liverpool F.C.;quater-final;advance to semi-final
+31;40;Atletico Madrid;quater-final;drop out
+31;36;Real Madrid;quater-final;advance to semi-final
+31;24;FC Bayern Munich;quater-final;drop out
+31;7;SL Benfica;quater-final;drop out
+31;81;Villarreal CF;quater-final;advance to semi-final
+31;65;Chelsea F.C.;quater-final;drop out
+31;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+31;23;Paris Saint-Germain F.C.;round 1 of 16;drop out
+31;75;Liverpool F.C.;round 1 of 16;advance to quater-final
+31;40;Atletico Madrid;round 1 of 16;advance to quater-final
+31;27;Ajax Amsterdam;round 1 of 16;drop out
+31;44;Sporting CP;round 1 of 16;drop out
+31;36;Real Madrid;round 1 of 16;advance to quater-final
+31;53;Inter Mediolan;round 1 of 16;drop out
+31;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+31;7;SL Benfica;round 1 of 16;advance to quater-final
+31;22;Manchester United F.C.;round 1 of 16;drop out
+31;81;Villarreal CF;round 1 of 16;advance to quater-final
+31;78;Lille OSC;round 1 of 16;drop out
+31;133;Red Bull Salzburg;round 1 of 16;drop out
+31;34;Juventus F.C.;round 1 of 16;drop out
+31;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+31;110;Manchester City F.C.;semi-final;drop out
+31;75;Liverpool F.C.;semi-final;advance to final
+31;36;Real Madrid;semi-final;advance to final
+31;81;Villarreal CF;semi-final;drop out
+31;75;Liverpool F.C.;final;loser
+31;36;Real Madrid;final;winner
+32;112;SSC Napoli;quater-final;drop out
+32;24;FC Bayern Munich;quater-final;drop out
+32;53;Inter Mediolan;quater-final;advance to semi-final
+32;65;Chelsea F.C.;quater-final;drop out
+32;13;A.C. Milan;quater-final;advance to semi-final
+32;36;Real Madrid;quater-final;advance to semi-final
+32;110;Manchester City F.C.;quater-final;advance to semi-final
+32;7;SL Benfica;quater-final;drop out
+32;112;SSC Napoli;round 1 of 16;advance to quater-final
+32;75;Liverpool F.C.;round 1 of 16;drop out
+32;15;FC Porto;round 1 of 16;drop out
+32;11;Club Brugge;round 1 of 16;drop out
+32;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+32;53;Inter Mediolan;round 1 of 16;advance to quater-final
+32;104;Tottenham Hotspur;round 1 of 16;drop out
+32;140;Eintracht Frankfurt;round 1 of 16;drop out
+32;65;Chelsea F.C.;round 1 of 16;advance to quater-final
+32;13;A.C. Milan;round 1 of 16;advance to quater-final
+32;36;Real Madrid;round 1 of 16;advance to quater-final
+32;130;RB Leipzig;round 1 of 16;drop out
+32;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+32;35;Borussia Dortmund;round 1 of 16;drop out
+32;7;SL Benfica;round 1 of 16;advance to quater-final
+32;23;Paris Saint-Germain F.C.;round 1 of 16;drop out
+32;53;Inter Mediolan;semi-final;advance to final
+32;13;A.C. Milan;semi-final;drop out
+32;36;Real Madrid;semi-final;drop out
+32;110;Manchester City F.C.;semi-final;advance to final
+32;53;Inter Mediolan;final;loser
+32;110;Manchester City F.C.;final;winner
+33;24;FC Bayern Munich;quater-final;advance to semi-final
+33;59;Arsenal F.C.;quater-final;drop out
+33;36;Real Madrid;quater-final;advance to semi-final
+33;66;S.S. Lazio;quater-final;drop out
+33;35;Borussia Dortmund;quater-final;advance to semi-final
+33;23;Paris Saint-Germain F.C.;quater-final;advance to semi-final
+33;110;Manchester City F.C.;quater-final;drop out
+33;5;FC Barcelona;quater-final;drop out
+33;24;FC Bayern Munich;round 1 of 16;advance to quater-final
+33;84;F.C. Copenhagen;round 1 of 16;drop out
+33;59;Arsenal F.C.;round 1 of 16;advance to quater-final
+33;16;PSV Eindhoven;round 1 of 16;drop out
+33;36;Real Madrid;round 1 of 16;advance to quater-final
+33;112;SSC Napoli;round 1 of 16;drop out
+33;69;Real Sociedad;round 1 of 16;drop out
+33;53;Inter Mediolan;round 1 of 16;drop out
+33;40;Atletico Madrid;round 1 of 16;drop out
+33;66;S.S. Lazio;round 1 of 16;advance to quater-final
+33;35;Borussia Dortmund;round 1 of 16;advance to quater-final
+33;23;Paris Saint-Germain F.C.;round 1 of 16;advance to quater-final
+33;110;Manchester City F.C.;round 1 of 16;advance to quater-final
+33;130;RB Leipzig;round 1 of 16;drop out
+33;5;FC Barcelona;round 1 of 16;advance to quater-final
+33;15;FC Porto;round 1 of 16;drop out
+33;24;FC Bayern Munich;semi-final;drop out
+33;36;Real Madrid;semi-final;advance to final
+33;35;Borussia Dortmund;semi-final;advance to final
+33;23;Paris Saint-Germain F.C.;semi-final;drop out
+33;36;Real Madrid;final;winner
+33;35;Borussia Dortmund;final;loser
