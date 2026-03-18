@@ -4,6 +4,6 @@ __pycache__/
 # Ignore all Season_1 to Season_8 folders in Datasets/Hyrox
 Datasets/Hyrox/Season_*/
 Datasets/SkillCorner Premier League 24-25 data/
-Accessory and unfinished notebooks/
+Accessory + unfinished notebooks/
 statsbomb_cache/
 .ipynb_checkpoints/
