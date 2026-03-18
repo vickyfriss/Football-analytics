@@ -5,3 +5,5 @@ __pycache__/
 Datasets/Hyrox/Season_*/
 Datasets/SkillCorner Premier League 24-25 data/
 Accessory and unfinished notebooks/
+statsbomb_cache/
+.ipynb_checkpoints/
