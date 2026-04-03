@@ -7,3 +7,4 @@ Datasets/SkillCorner Premier League 24-25 data/
 Accessory + unfinished notebooks/
 statsbomb_cache/
 .ipynb_checkpoints/
+full_season_events.parquet
