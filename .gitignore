@@ -8,3 +8,4 @@ Accessory + unfinished notebooks/
 statsbomb_cache/
 .ipynb_checkpoints/
 full_season_events.parquet
+passes_mens_europe_15_16.csv
