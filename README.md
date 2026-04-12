@@ -10,9 +10,3 @@ If you’d like to get in touch, feel free to reach out via
 [LinkedIn](https://www.linkedin.com/in/victoria-friss-de-kereki/),
 [my website](https://victoriafriss.com/),
 or [Email](mailto:vicky_friss@hotmail.com)
-
-
-# 
-
-> *Note: Python webinar source: [Hudl / StatsBomb](https://www.hudl.com/blog/using-hudl-statsbomb-free-data-in-python).*
-
