@@ -37,12 +37,12 @@ Most of the work is done in Python, using:
 ---
 
 ## 📂 Project Structure
-Football-analytics/
-│
-├── # Notebooks, analysis, experiments
-├── Datasets/ # datasets (raw and processed)
-├── Images and others/ # plots and figures
-└── README.md
+Football-analytics/  
+│  
+├── # Notebooks, analysis, experiments  
+├── Datasets/ # datasets (raw and processed)  
+├── Images and others/ # plots and figures  
+└── README.md  
 
 ---
 
