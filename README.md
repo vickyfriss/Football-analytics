@@ -2,7 +2,7 @@
 
 ✍️ **Medium:** https://medium.com/@vickyfrissdekereki  
 💼 **LinkedIn:** https://www.linkedin.com/in/victoria-friss-de-kereki/  
-📧 **Email:** mailto:vicky_friss@hotmail.com  
+📧 **Email:** [vicky_friss@hotmail.com](mailto:vicky_friss@hotmail.com)  
 🔗 **Live App:** https://football-league-simulator.streamlit.app/  
 
 ---
