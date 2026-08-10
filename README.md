@@ -54,7 +54,7 @@ I enjoy working at the intersection of sports and data. This repo is a way for m
 
 ## 👤 About Me
 
-Hi, I'm Victoria Friss de Kereki - an applied data scientist focused on sports analytics, performance modelling, and simulation in sport.
+Hi, I'm Victoria Friss de Kereki - a Football Data Analyst turning football data into data-driven insights, with a growing focus on probabilistic modelling and simulation in sport.
 
 I work on projects that combine sports data, machine learning, and context-driven analysis to better understand performance and decision-making in sport. Alongside this, I have experience working with data across fintech, healthcare, and e-commerce, which has shaped how I approach real-world problems.
 
@@ -62,7 +62,7 @@ Outside of data science, I'm a competitive athlete - a World Champion U57 Natura
 
 I also write about sports analytics and data science on [Medium](https://medium.com/@vickyfrissdekereki), where I share insights, ideas, and projects I’m working on.
 
-I’m currently building my portfolio in sports analytics and am particularly interested in opportunities in this space.
+This repo remains my space for personal projects and continued learning in football analytics.
 
 ---
 
