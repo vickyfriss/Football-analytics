@@ -10,3 +10,4 @@ statsbomb_cache/
 full_season_events.parquet
 passes_mens_europe_15_16.csv
 premierleague_1516_passes_df.csv
+.DS_Store
